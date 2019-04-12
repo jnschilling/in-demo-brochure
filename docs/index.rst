@@ -11,14 +11,23 @@ Welcome to Inland navigation DEMO Brochure's documentation!
    :maxdepth: 2
    
    source/introduction
-   
+
 .. toctree::
    :numbered:
 
    source/whatisais
    source/inlandaisinformation
    source/useofinlandecdis
+   source/privacyofdata
+   source/limitationsofais
+   source/useofaisinformationbycompetentauthorities
+   source/aisonaton
 
+.. toctree::
+   :caption: Annexes
+
+   source/annex1
+   source/annex2
 
 Indices and tables
 ==================
