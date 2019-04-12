@@ -7,12 +7,13 @@ Welcome to In Demo Brochure's documentation!
 ============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
    :glob:
-
-   *
-
+   :numbered: source/introduction
+   :numbered: source/inlandaisinformation
+   :numbered: source/whatisais
+   :numbered: source/useofinlandecdis
 
 
 Indices and tables
