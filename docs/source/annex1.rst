@@ -6,7 +6,7 @@ ANNEX 1: ERI ship or convoy types
    :widths: auto
 
    ======  ======  ===================================================================================  ==============  ==============
-   ship    U       Ship name                                                     						1st digit       2nd digit
+   ship    U       Ship Type                                                                            1st digit       2nd digit
    code                                                                                                 SOLAS AIS Code  SOLAS AIS Code
    ======  ======  ===================================================================================  ==============  ==============
    8000    No      Vessel, type unknown                                                                 9               9
@@ -62,7 +62,8 @@ ANNEX 1: ERI ship or convoy types
    8443    V       Cruise ship                                                                          6               9
    8444    V       Passenger ship without accomodation                                                  6               9
    8450    V       Service vessel, police patrol, port service                                          9               9
-   8460    V       Vessel, work maintainance craft, floating derrick, cable-ship, buoy-ship, dredge     3               3
+   8460    V       Vessel, work maintainance craft,                                                     3               3
+                   floating derrick, cable-ship, buoy-ship, dredge
    8470    C       Object, towed, not otherwise specified                                               9               9
    8480    V       Fishing boat                                                                         3               0
    8490    V       Bunkership                                                                           9               9
