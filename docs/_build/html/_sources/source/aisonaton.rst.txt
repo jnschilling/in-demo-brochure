@@ -1,10 +1,10 @@
-====================
-What is AIS?
-====================
-Inland AIS is based on the Maritime AIS. AIS uses radio technology. Through radio signals AIS stations, sometimes called AIS transponders, send out messages.
+================================
+AIS on Aids to Navigation (AtoN)
+================================
 
-These messages can be received by all other AIS stations, on ships and onshore, in the vicinity of the sending station within VHF radio range. This happens automatically and periodically, with shorter or longer intervals. A fast-moving ship will send out AIS messages at shorter intervals than a ship that is travelling slower or is moored. Two special VHF radio channels are reserved to exchange AIS messages.
+AIS provides a suitable means for emphasising classic Aids to Navigation (AtoN) for the marking of buoys, wrecks, wind farms, etc. A special AIS AtoN message transfers the position and the meaning of the Aids to Navigation as well as information if the buoy is on the required position or if it has been swept away. 
 
-Certain hardware and software is needed for AIS. The hardware is an AIS station with built-in GPS. For a user-friendly presentation of the content of AIS messages, additional equipment (e.g. Inland ECDIS, see chapter 3) is needed. 
+This AIS AtoN message can be either transmitted by an AIS shore station or by a specific AIS AtoN station mounted on a buoy, wind farm or lighthouse. 
 
-The information in these messages includes the identity of the ship, the position, and other ship-related information (see chapter 2 for details). Some of the information, such as ship identity and position, is automatically broadcast. Other information, such as navigation status, destination, and dangerous cargo category (blue cones), can be input manually by the skipper. All data that is input manually has to be accurate and valid.
+The AIS AtoN message can represent a real buoy lying in the water or a position where no real buoy is present. In the latter case this is called a virtual AtoN. Virtual AtoN’s may be displayed on an ECDIS chart and might be used to mark a wreck immediately after the accident before real buoys can be brought out, or to mark a fairway in ice conditions where buoys won’t last.
+
