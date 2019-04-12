@@ -1,6 +1,6 @@
-======================
+====================
 Inland AIS information
-======================
+====================
 Be aware that regulations regarding AIS information content might be different in every country or region according to the local legislation.
 
 Several types of information can be transmitted by Inland AIS. 

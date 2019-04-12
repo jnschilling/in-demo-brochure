@@ -3,17 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to In Demo Brochure's documentation!
-============================================
+Welcome to Inland navigation DEMO Brochure's documentation!
+===========================================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Contents:
-   :glob:
-   :numbered: source/introduction
-   :numbered: source/inlandaisinformation
-   :numbered: source/whatisais
-   :numbered: source/useofinlandecdis
+   :caption: Table of Contents
+   :maxdepth: 2
+   
+   source/introduction
+   
+.. toctree::
+   :numbered:
+
+   source/whatisais
+   source/inlandaisinformation
+   source/useofinlandecdis
 
 
 Indices and tables
