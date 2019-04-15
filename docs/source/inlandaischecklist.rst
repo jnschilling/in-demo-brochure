@@ -1,0 +1,48 @@
+=======================
+Inland AIS Checklist
+=======================
+
+Operation of the Inland AIS station on board an inland ship
+
+This checklist should help the skipper operate the Inland AIS station on board the vessel. The purpose is to give a short overview of what kind of data should be input and kept up to date during the voyage of the inland ship. The actual requirement of the data input may differ between regions. The minimum requirements of the data content are published in the appropriate regional regulation of the river commission or the national legislation.
+
+-----------------
+BEFORE THE VOYAGE 
+-----------------
+
+Before the voyage starts, check that the Inland AIS station is switched on.
+
+Check your own ship data transmitted by the Inland AIS (once in a while): 
+   -Name of the ship.
+   -ENI number.
+   -ERI ship and convoy type.
+   -Length and beam of ship.
+   -Reference point of the GPS antenna.
+   -If blue sign is connected, check that blue sign status is correct.
+   -Check if you are receiving data from other vessels (which you may see visually) on the MKD or Inland ECDIS.
+
+----------------------------------
+SHORTLY BEFORE STATING THE VOYAGE
+----------------------------------
+
+Amend your own ship’s data for the planned voyage according to the regional regulation for the river where you are navigating:
+   -Dangerous cargo indication.
+   -Destination.
+   -Depth
+   -In case of convoy length and beam of convoy and the reference point of the GPS antenna. Also if the previous voyage was a convoy it should be adjusted accordingly.
+   -Set the navigational status information of the ship to “underway” with respect to the navigational status that is applicable.
+
+------------------
+DURING THE VOYAGE
+------------------
+
+   -Keep the navigational status information of the ship up to date.
+   -Check if you are receiving data from other vessels (which you may see visually).
+
+------------------
+AFTER THE VOYAGE 
+------------------
+
+   -Set the navigational status information to “moored” or “at anchor”.
+   -Amend the voyage-related data if necessary. 
+   -Operate the Inland AIS station according to the regional regulation for the river/port where you are.

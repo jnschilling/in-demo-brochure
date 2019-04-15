@@ -20,11 +20,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Inland Navigation Demo Brochure'
-copyright = '2019, Jean-Noël Schilling'
+copyright = '2013, VVT Expert Group Annick Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden'
 author = 'Jean-Noël Schilling'
 
 # The short X.Y version
-version = '0.0'
+version = '2013.0'
 # The full version, including alpha/beta/rc tags
 release = '0.1'
 

@@ -22,6 +22,11 @@ Welcome to Inland navigation DEMO Brochure's documentation!
    source/limitationsofais
    source/useofaisinformationbycompetentauthorities
    source/aisonaton
+   source/otheraisstations
+   source/whoshouldcarryinlandais
+   source/aisantennas
+   source/bluesign
+   source/inlandaischecklist
 
 .. toctree::
    :caption: Annexes
@@ -35,3 +40,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Responsible editor: VTT Expert Group | Authors: Annick Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden

@@ -1,0 +1,8 @@
+.. glossary::
+
+   AIS
+   Automatic Identification System<AIS>
+      An automatic communication and identification system intended to improve the safety of navigation by assisting in the efficient operation of vessel traffic services (VTS), ship reporting, ship-to-ship and ship-to-shore operations. (Source: IMO Performance Standards for AI; CCNR Inland ECDIS Standard Edition 2.0 23/11/2006)
+
+   
+

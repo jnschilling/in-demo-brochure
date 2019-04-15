@@ -2,12 +2,14 @@
 ANNEX 1: ERI ship or convoy types
 =========================================
 
-.. table:: **ERI Codes** : This table should be used to input the actual vessel type or convoy type before the voyage starts (see the Inland AIS checklist). 
+.. table:: This table should be used to input the actual vessel type or convoy type before the voyage starts (see the Inland AIS checklist). 
    :widths: auto
 
    ======  ======  ===================================================================================  ==============  ==============
-   ship    U       Ship Type                                                                            1st digit       2nd digit
-   code                                                                                                 SOLAS AIS Code  SOLAS AIS Code
+   ERI CODE                                                                                             SOLAS AIS Code
+   ---------------------------------------------------------------------------------------------------  ------------------------------
+   Ship    U       Ship Type                                                                            1st digit       2nd digit
+   code                                                                                                 
    ======  ======  ===================================================================================  ==============  ==============
    8000    No      Vessel, type unknown                                                                 9               9
    8010    V       Motor freighter                                                                      7               9
@@ -79,13 +81,3 @@ ANNEX 1: ERI ship or convoy types
    1910    V       hydrofoil                                                                            4               9
    1920    V       catamaran fast                                                                       4               9
    ======  ======  ===================================================================================  ==============  ==============
-
-.. table:: Truth table for "not"
-   :widths: auto
-
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
