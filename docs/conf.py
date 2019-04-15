@@ -58,9 +58,9 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
-# settings locale directory storing translation :
+language = language = ['en', 'fr']
 
+# settings locale directory storing translation :
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 

@@ -1,5 +1,5 @@
 # in-demo-brochure
-Testing brochure edition for AIS equipment to Skipper
+Testing brochure edition for AIS equipment for the use of Skippers
 
 # Author of the electronic content ready for sphinx
 Jean-Noël Schilling
