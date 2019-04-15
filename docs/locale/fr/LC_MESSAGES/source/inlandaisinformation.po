@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: 2019-04-15 14:36+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ../../source/inlandaisinformation.rst:3
+msgid "Inland AIS information"
+msgstr "Informations transmises par l’AIS"
+
+#: ../../source/inlandaisinformation.rst:4
+msgid ""
+"Be aware that regulations regarding AIS information content might be different "
+"in every country or region according to the local legislation."
+msgstr ""
+"Il convient de tenir compte du fait que les dispositions concernant les données "
+"contenues dans les messages AIS peuvent varier en fonction de la réglementation "
+"en vigueur dans l’État concerné ou dans la région concernée."
+
+#: ../../source/inlandaisinformation.rst:6
+msgid "Several types of information can be transmitted by Inland AIS."
+msgstr ""
+"Les données transmises par les appareils AIS Intérieur peuvent être classées en "
+"différentes catégories."
+
+#: ../../source/inlandaisinformation.rst:8
+msgid "**Static information**, which includes :"
+msgstr ""
+"Les **données statiques** relatives au bateau sont notamment les données "
+"suivantes :"
+
+#: ../../source/inlandaisinformation.rst:10
+msgid "MMSI, name, call sign, and ENI number. Some ships also have an IMO number."
+msgstr ""
+"MMSI [le numéro d’appel du service radiotéléphonique mobile maritime], le nom "
+"du bateau, l’indicatif d’appel et le numéro ENI. Certains bateaux possèdent "
+"aussi un numéro OMI."
+
+#: ../../source/inlandaisinformation.rst:11
+msgid ""
+"Type of ship, dimensions (length and beam) and position of the GPS antenna is "
+"static information for single ships (not part of a convoy), while this "
+"information is voyage-related for convoys."
+msgstr ""
+"Le type de bateau, les dimensions (longueur et largeur) et l’emplacement de "
+"l’antenne GPS à bord sont des données statiques pour tous les bateaux isolés "
+"(c’est-à-dire qui ne font pas partie d’un convoi poussé ou remorqué), tandis "
+"que ce sont des données relatives au voyage lorsqu’il s’agit d’un convoi."
+
+#: ../../source/inlandaisinformation.rst:13
+msgid ""
+"The **static information** will not change unless the ship changes owner, flag "
+"state or any other of the given parameters. The static information will be "
+"input and configured during installation and is password protected. An "
+"approved, specialised firm for installation should be contacted if one of the "
+"static information fields is incorrect."
+msgstr ""
+"Les **données statiques** relatives au bateau ne changent pas, dès lors que son "
+"propriétaire, sa nationalité ou d’autres paramètres ne sont pas modifiés. Les "
+"données statiques relatives au bateau sont saisies, configurées et protégées "
+"par un mot de passe au cours de la procédure d’installation. Si un ou plusieurs "
+"champs consacrés aux données statiques relatives au bateau comportent des "
+"données erronées, ceci doit être corrigé par une société spécialisée agréée."
+
+#: ../../source/inlandaisinformation.rst:15
+msgid ""
+"The **Dynamic information** is all information referring to the movements of a "
+"ship, such as position, speed, course and navigational status. Dynamic "
+"information is automatically derived from on-board sensors, and includes GPS, "
+"heading, and rate of turn indicators if available. Only the navigational status "
+"should be input manually via the Minimum Keyboard and Display (MKD) or via a "
+"connected, approved input device supporting the MKD functionality."
+msgstr ""
+"Les **données dynamiques** relatives au bateau sont toutes les données qui "
+"concernent les mouvements du bateau, par exemple sa position, sa vitesse, son "
+"cap et son statut navigationnel. Les données dynamiques relatives au bateau "
+"sont automatiquement dérivées des signaux de capteurs installés à bord. Font "
+"partie de ces capteurs le Global Positioning System (GPS) et – s’ils sont "
+"présents – les détecteurs du cap et de la vitesse de giration. Seul le statut "
+"navigationnel doit être saisi manuellement, soit directement sur l’appareil AIS "
+"(MKD – Minimum Keyboard Display) ou par le biais d’un appareil de saisie agréé "
+"et connecté qui supporte la fonctionnalité MKD. "
+
+#: ../../source/inlandaisinformation.rst:17
+msgid ""
+"An approved, specialised firm for installation should be contacted if one of "
+"the dynamic information fields is detected to be unreliable."
+msgstr ""
+"S’il est constaté que les données contenues dans un ou plusieurs des champs "
+"concernant les données dynamiques relatives au bateau sont inexactes ou non "
+"fiables, ceci nécessite l’intervention d’une société spécialisée agréée."
+
+#: ../../source/inlandaisinformation.rst:19
+msgid ""
+"**Voyage-related information** is information relating to the voyage of a ship. "
+"This includes destination¹ , present draught and hazardous cargo classification "
+"(blue cones). For a ship sailing in a convoy, the following information is also "
+"required: the length and beam of the convoy (see Annex 2), the position of the "
+"GPS antenna, and the ERI ship or convoy type. All voyage-related information "
+"should be input manually on the MKD or via a connected, approved input device "
+"(e.g. Inland ECDIS supporting the MKD functionality). The proper input is the "
+"responsibility of the captain of the ship."
+msgstr ""
+"Les données relatives au voyage sont les données qui concernent le voyage "
+"actuel du bateau. En font parti le port de destination1, l’enfoncement actuel "
+"et la nature de la marchandise dangereuse transportée (= nombre de cônes "
+"bleus). Pour les bateaux qui font route en convoi, sont également nécessaires "
+"les données suivantes : la longueur et la largeur du convoi (voir annexe 2), "
+"l’emplacement de l’antenne GPS à bord ainsi que le type de bâtiment ou de "
+"convoi conformément à la classification ERI. Toutes les données relatives au "
+"voyage doivent être saisies manuellement au moyen du MKD ou d’un appareil de "
+"saisie agréé et connecté (par exemple un appareil ECDIS intérieur qui supporte "
+"la fonctionnalité MKD). Le conducteur est responsable de l’exactitude des "
+"données saisies."
+
+#: ../../source/inlandaisinformation.rst:22
+msgid ""
+"not all information mentioned under voyage-related information is mandatory in "
+"all countries."
+msgstr ""
+"Pour information : toutes les données mentionnées sous le point “donnée "
+"relative au voyage” ne sont pas obligatoires dans tous les pays."
+
+#: ../../source/inlandaisinformation.rst:24
+msgid ""
+"All information which is input manually must be valid information. If there is "
+"no requirement for certain information in a particular country or area, "
+"remember that non-valid information is never allowed; the field should be up to "
+"date containing correct information or should be set to Not Available."
+msgstr ""
+"Toutes les données relatives aux bateaux qui sont saisies manuellement doivent "
+"être exactes. Lorsque la réglementation d’un pays ou d’une région n’exige pas "
+"la saisie de certaines données, il demeure néanmoins interdit de saisir des "
+"données erronées ; le champ de données concerné doit contenir des données "
+"actuelles et exactes ou doit être réglé sur “non disponible” (“Not Available”)."
+
+#: ../../source/inlandaisinformation.rst:26
+msgid ""
+"To summarise: all data transmitted should be correct, including data which is "
+"input during installation. The skipper should regularly check that the settings "
+"and transmission of his own Inland AIS information are correct."
+msgstr ""
+"En résumé : toutes les données transmises doivent être exactes, y compris les "
+"données saisies au cours de la procédure d’installation. Il incombe au "
+"conducteur de vérifier régulièrement que les réglages de ses appareils AIS "
+"Intérieur sont corrects et que la transmission de ses données AIS est assurée "
+"correctement."

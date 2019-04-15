@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/inlandaisinformation.rst:3
+msgid "Inland AIS information"
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:4
+msgid "Be aware that regulations regarding AIS information content might be different in every country or region according to the local legislation."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:6
+msgid "Several types of information can be transmitted by Inland AIS."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:8
+msgid "**Static information**, which includes :"
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:10
+msgid "MMSI, name, call sign, and ENI number. Some ships also have an IMO number."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:11
+msgid "Type of ship, dimensions (length and beam) and position of the GPS antenna is static information for single ships (not part of a convoy), while this information is voyage-related for convoys."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:13
+msgid "The **static information** will not change unless the ship changes owner, flag state or any other of the given parameters. The static information will be input and configured during installation and is password protected. An approved, specialised firm for installation should be contacted if one of the static information fields is incorrect."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:15
+msgid "The **Dynamic information** is all information referring to the movements of a ship, such as position, speed, course and navigational status. Dynamic information is automatically derived from on-board sensors, and includes GPS, heading, and rate of turn indicators if available. Only the navigational status should be input manually via the Minimum Keyboard and Display (MKD) or via a connected, approved input device supporting the MKD functionality."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:17
+msgid "An approved, specialised firm for installation should be contacted if one of the dynamic information fields is detected to be unreliable."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:19
+msgid "**Voyage-related information** is information relating to the voyage of a ship. This includes destination¹ , present draught and hazardous cargo classification (blue cones). For a ship sailing in a convoy, the following information is also required: the length and beam of the convoy (see Annex 2), the position of the GPS antenna, and the ERI ship or convoy type. All voyage-related information should be input manually on the MKD or via a connected, approved input device (e.g. Inland ECDIS supporting the MKD functionality). The proper input is the responsibility of the captain of the ship."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:22
+msgid "not all information mentioned under voyage-related information is mandatory in all countries."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:24
+msgid "All information which is input manually must be valid information. If there is no requirement for certain information in a particular country or area, remember that non-valid information is never allowed; the field should be up to date containing correct information or should be set to Not Available."
+msgstr ""
+
+#: ../../source/inlandaisinformation.rst:26
+msgid "To summarise: all data transmitted should be correct, including data which is input during installation. The skipper should regularly check that the settings and transmission of his own Inland AIS information are correct."
+msgstr ""
+

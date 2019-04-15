@@ -22,18 +22,18 @@ Welcome to Inland navigation DEMO Brochure's documentation!
    source/limitationsofais
    source/useofaisinformationbycompetentauthorities
    source/aisonaton
+   source/otheraisstations
+   source/whoshouldcarryinlandais
+   source/aisantennas
+   source/bluesign
+   source/inlandaischecklist
 
 .. toctree::
    :caption: Annexes
 
    source/annex1
    source/annex2
-
-.. glossary::
-
-   AIS
-   Automatic Identification System
-      An automatic communication and identification system intended to improve the safety of navigation by assisting in the efficient operation of vessel traffic services (VTS), ship reporting, ship-to-ship and ship-to-shore operations. (Source: IMO Performance Standards for AI; CCNR Inland ECDIS Standard Edition 2.0 23/11/2006)
+   source/glossary
 
 Indices and tables
 ==================
@@ -41,3 +41,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+Responsible editor: VTT Expert Group | Authors: Annick Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden

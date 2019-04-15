@@ -11,8 +11,9 @@ The information in these messages includes the identity of the ship, the positio
 
 .. warning::
 
-   The following points should be considered when using information conveyed by AIS:
-      -Always bear in mind that other ships may not be equipped with AIS; an AIS station installed on another ship might transmit incomplete, erroneous or not updated information; AIS may fail; or AIS might be switched off.
-      -Not all shore infrastructures are equipped with AIS base stations, e.g. locks and Vessel Traffic Service (VTS) centres.
-      -Users should ensure that they are able to correctly interpret the data received.
-      -AIS is purely an additional source of information. It does not replace navigational aids such as radar, but is intended to support them.
+   The following points should be considered when using information conveyed by AIS :
+
+      - Always bear in mind that other ships may not be equipped with AIS; an AIS station installed on another ship might transmit incomplete, erroneous or not updated information; AIS may fail; or AIS might be switched off.
+      - Not all shore infrastructures are equipped with AIS base stations, e.g. locks and Vessel Traffic Service (VTS) centres.
+      - Users should ensure that they are able to correctly interpret the data received.
+      - AIS is purely an additional source of information. It does not replace navigational aids such as radar, but is intended to support them.

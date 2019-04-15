@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/otheraisstations.rst:3
+msgid "Other AIS stations"
+msgstr ""
+
+#: ../../source/otheraisstations.rst:5
+msgid ""
+"Several others types of AIS station have different purposes in use. The "
+"most important are:"
+msgstr ""
+
+#: ../../source/otheraisstations.rst:7
+msgid ""
+"Inland AIS : AIS station for inland shipping (mandatory under regional "
+"regulation)"
+msgstr ""
+
+#: ../../source/otheraisstations.rst:8
+msgid "Class A : AIS station for seagoing ships (mandatory under SOLAS)."
+msgstr ""
+
+#: ../../source/otheraisstations.rst:9
+msgid ""
+"Class B : AIS station for recreational ships and other small ships "
+"(voluntary or mandatory for some ship types under regional regulation)."
+msgstr ""
+
+#: ../../source/otheraisstations.rst:10
+msgid "AIS AtoN : AIS station for Aids to Navigation, e.g. buoys, wreck marking."
+msgstr ""
+
+#: ../../source/otheraisstations.rst:11
+msgid "AIS SART : AIS Search and Rescue Transmitter for lifeboats."
+msgstr ""
+
+#: ../../source/otheraisstations.rst:12
+msgid "AIS Base Station : AIS station on shore."
+msgstr ""
+
+#: ../../source/otheraisstations.rst:13
+msgid ""
+"AIS Repeater : AIS station on shore for extended coverage between ships, "
+"e.g. in hilly areas."
+msgstr ""
+

@@ -33,6 +33,7 @@ Welcome to Inland navigation DEMO Brochure's documentation!
 
    source/annex1
    source/annex2
+   source/glossary
 
 Indices and tables
 ==================

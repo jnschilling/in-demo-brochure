@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/aisonaton.rst:3
+msgid "AIS on Aids to Navigation (AtoN)"
+msgstr ""
+
+#: ../../source/aisonaton.rst:5
+msgid ""
+"AIS provides a suitable means for emphasising classic Aids to Navigation "
+"(AtoN) for the marking of buoys, wrecks, wind farms, etc. A special AIS "
+"AtoN message transfers the position and the meaning of the Aids to "
+"Navigation as well as information if the buoy is on the required position"
+" or if it has been swept away."
+msgstr ""
+
+#: ../../source/aisonaton.rst:7
+msgid ""
+"This AIS AtoN message can be either transmitted by an AIS shore station "
+"or by a specific AIS AtoN station mounted on a buoy, wind farm or "
+"lighthouse."
+msgstr ""
+
+#: ../../source/aisonaton.rst:9
+msgid ""
+"The AIS AtoN message can represent a real buoy lying in the water or a "
+"position where no real buoy is present. In the latter case this is called"
+" a virtual AtoN. Virtual AtoN’s may be displayed on an ECDIS chart and "
+"might be used to mark a wreck immediately after the accident before real "
+"buoys can be brought out, or to mark a fairway in ice conditions where "
+"buoys won’t last."
+msgstr ""
+

@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/useofaisinformationbycompetentauthorities.rst:3
+msgid "Use of AIS information by Competent Authorities"
+msgstr ""
+
+#: ../../source/useofaisinformationbycompetentauthorities.rst:5
+msgid "At the moment of writing this document, Competent Authorities have or are still investing in shore-based AIS networks."
+msgstr ""
+
+#: ../../source/useofaisinformationbycompetentauthorities.rst:7
+msgid "Waterway authorities are gaining experience with this rather new technology for inland waterways. The collected information sent by the Inland AIS stations is mainly used for monitoring purposes. This information gives the authorities an overview of the situation on the waterways, ships heading towards their locks and bridges, and ships leaving their network."
+msgstr ""
+
+#: ../../source/useofaisinformationbycompetentauthorities.rst:9
+msgid "In the near future, Inland AIS networks will be used by some authorities to communicate important information (e.g. water levels) and information about dangerous situations (e.g. calamity information) directly and efficiently via AIS to the skippers. This information will be visible on the installed Inland ECDIS. More efficient lock/bridge planning is also possible, allowing smooth traffic with minimal delays at locks and bridges."
+msgstr ""
+
+#: ../../source/useofaisinformationbycompetentauthorities.rst:11
+msgid "AIS creates many new possibilities for future services. A number of pilots for new services are ongoing."
+msgstr ""
+

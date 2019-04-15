@@ -81,13 +81,3 @@ ANNEX 1: ERI ship or convoy types
    1910    V       hydrofoil                                                                            4               9
    1920    V       catamaran fast                                                                       4               9
    ======  ======  ===================================================================================  ==============  ==============
-
-.. table:: Truth table for "not"
-   :widths: auto
-
-=====  =====
-  A    not A
-=====  =====
-False  True
-True   False
-=====  =====

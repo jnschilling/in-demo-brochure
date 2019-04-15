@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: 2019-04-15 14:03+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ../../source/bluesign.rst:3
+msgid "Blue sign"
+msgstr "Panneau bleu"
+
+#: ../../source/bluesign.rst:5
+msgid ""
+"Some ships have the blue sign connected to the Inland AIS station; "
+"others do not have this connection. Skippers should be aware of this "
+"situation. Not all AIS symbols on the ECDIS will represent the real "
+"situation with respect to the connection of the blue sign. So, if the "
+"blue sign is not shown, it will not necessarily indicate that the blue "
+"sign is not set, because of the possible missing connection!"
+msgstr ""
+"A bord de certains bateaux, le panneau bleu est connecté à l’appareil "
+"AIS Intérieur, mais ceci n’est cependant pas systématique. Les "
+"conducteurs doivent avoir conscience de cette situation. Tous les "
+"symboles AIS visualisés sur l’ECDIS ne reflètent pas nécessairement la "
+"situation réelle en ce qui concerne le panneau bleu. Ainsi l’absence du "
+"symbole pour le panneau bleu ne signifie pas nécessairement que le "
+"panneau bleu n’est pas arboré, celui-ci pouvant être arboré mais non "
+"connecté!"

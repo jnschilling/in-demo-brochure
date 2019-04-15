@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/whatisais.rst:3
+msgid "What is AIS?"
+msgstr ""
+
+#: ../../source/whatisais.rst:4
+msgid ""
+"Inland AIS is based on the Maritime AIS. AIS uses radio technology. "
+"Through radio signals AIS stations, sometimes called AIS transponders, "
+"send out messages."
+msgstr ""
+
+#: ../../source/whatisais.rst:6
+msgid ""
+"These messages can be received by all other AIS stations, on ships and "
+"onshore, in the vicinity of the sending station within VHF radio range. "
+"This happens automatically and periodically, with shorter or longer "
+"intervals. A fast-moving ship will send out AIS messages at shorter "
+"intervals than a ship that is travelling slower or is moored. Two special"
+" VHF radio channels are reserved to exchange AIS messages."
+msgstr ""
+
+#: ../../source/whatisais.rst:8
+msgid ""
+"Certain hardware and software is needed for AIS. The hardware is an AIS "
+"station with built-in GPS. For a user-friendly presentation of the "
+"content of AIS messages, additional equipment (e.g. Inland ECDIS, see "
+"chapter 3) is needed."
+msgstr ""
+
+#: ../../source/whatisais.rst:10
+msgid ""
+"The information in these messages includes the identity of the ship, the "
+"position, and other ship-related information (see chapter 2 for details)."
+" Some of the information, such as ship identity and position, is "
+"automatically broadcast. Other information, such as navigation status, "
+"destination, and dangerous cargo category (blue cones), can be input "
+"manually by the skipper. All data that is input manually has to be "
+"accurate and valid."
+msgstr ""
+
+#: ../../source/whatisais.rst:14
+msgid ""
+"The following points should be considered when using information conveyed"
+" by AIS :"
+msgstr ""
+
+#: ../../source/whatisais.rst:16
+msgid ""
+"Always bear in mind that other ships may not be equipped with AIS; an AIS"
+" station installed on another ship might transmit incomplete, erroneous "
+"or not updated information; AIS may fail; or AIS might be switched off."
+msgstr ""
+
+#: ../../source/whatisais.rst:17
+msgid ""
+"Not all shore infrastructures are equipped with AIS base stations, e.g. "
+"locks and Vessel Traffic Service (VTS) centres."
+msgstr ""
+
+#: ../../source/whatisais.rst:18
+msgid ""
+"Users should ensure that they are able to correctly interpret the data "
+"received."
+msgstr ""
+
+#: ../../source/whatisais.rst:19
+msgid ""
+"AIS is purely an additional source of information. It does not replace "
+"navigational aids such as radar, but is intended to support them."
+msgstr ""
+

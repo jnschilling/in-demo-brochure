@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: 2019-04-15 13:41+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ../../source/aisonaton.rst:3
+msgid "AIS on Aids to Navigation (AtoN)"
+msgstr "L’AIS pour les aides à la navigation (AtoN)"
+
+#: ../../source/aisonaton.rst:5
+msgid ""
+"AIS provides a suitable means for emphasising classic Aids to Navigation "
+"(AtoN) for the marking of buoys, wrecks, wind farms, etc. A special AIS "
+"AtoN message transfers the position and the meaning of the Aids to "
+"Navigation as well as information if the buoy is on the required "
+"position or if it has been swept away."
+msgstr ""
+"L’AIS est un moyen approprié pour renforcer l’efficacité des aides "
+"classiques à la navigation (acronyme en anglais : “AtoN” pour “Aids to "
+"Navigation”), pour indiquer la position de bouées, d’épaves, "
+"d’installations de production d’énergie éolienne, etc. Un message AIS "
+"AtoN spécifique transmet la position et la signification des aides à la "
+"navigation et indique si la balise se trouve à l’emplacement prévu ou si "
+"elle a été déplacée accidentellement."
+
+#: ../../source/aisonaton.rst:7
+msgid ""
+"This AIS AtoN message can be either transmitted by an AIS shore station "
+"or by a specific AIS AtoN station mounted on a buoy, wind farm or "
+"lighthouse."
+msgstr ""
+"Un tel message AIS AtoN peut être émis par une station AIS à terre ou "
+"par une station AIS AtoN spécifique montée sur une balise, une "
+"installation d’énergie éolienne ou un phare."
+
+#: ../../source/aisonaton.rst:9
+msgid ""
+"The AIS AtoN message can represent a real buoy lying in the water or a "
+"position where no real buoy is present. In the latter case this is "
+"called a virtual AtoN. Virtual AtoN’s may be displayed on an ECDIS chart "
+"and might be used to mark a wreck immediately after the accident before "
+"real buoys can be brought out, or to mark a fairway in ice conditions "
+"where buoys won’t last."
+msgstr ""
+"Le message AIS AtoN peut représenter une balise réellement présente dans "
+"l’eau, mais aussi une position dépourvue d’une telle balise. Dans ce "
+"deuxième cas, on parle d’une aide à la navigation virtuelle. Si "
+"l’appareil ECDIS le permet, les AtoN virtuelles peuvent être "
+"représentées sur une carte ECDIS Intérieur et peuvent par exemple être "
+"utilisées pour signaler immédiatement la position d’une épave en "
+"attendant qu’une véritable balise puisse être mise en place ou pour "
+"délimiter un chenal en présence de glace, si les balises ne peuvent pas "
+"être maintenues en position."

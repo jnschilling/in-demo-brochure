@@ -1,0 +1,776 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, VVT Expert Group Annick Javor, Stefan Bober, Piet
+# Creemers, Jeffrey van Gils, Wim van der Heijden
+# This file is distributed under the same license as the Inland Navigation
+# Demo Brochure package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"PO-Revision-Date: 2019-04-15 14:02+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: ../../source/annex1.rst:3
+msgid "ANNEX 1: ERI ship or convoy types"
+msgstr "ANNEXE 1: Type de bateau ou convoi selon ERI"
+
+#: ../../source/annex1.rst:5
+msgid ""
+"This table should be used to input the actual vessel type or convoy type "
+"before the voyage starts (see the Inland AIS checklist)."
+msgstr ""
+"Ce tableau doit être utilisé avant le début du voyage pour la saisie du "
+"type spécifique de bâtiment ou du convoi (voir la liste de contrôle pour "
+"les appareils AIS Intérieur)."
+
+#: ../../source/annex1.rst:9
+msgid "ERI CODE"
+msgstr "Code ERI"
+
+#: ../../source/annex1.rst:9
+msgid "SOLAS AIS Code"
+msgstr "CODE SOLAS AIS"
+
+#: ../../source/annex1.rst:11
+msgid "Ship"
+msgstr "Bateau"
+
+#: ../../source/annex1.rst:11
+msgid "U"
+msgstr "U"
+
+#: ../../source/annex1.rst:11
+msgid "Ship Type"
+msgstr "Type de Bateau"
+
+#: ../../source/annex1.rst:11
+msgid "1st digit"
+msgstr "1er Chiffre"
+
+#: ../../source/annex1.rst:11
+msgid "2nd digit"
+msgstr "Second chiffre"
+
+#: ../../source/annex1.rst:12
+msgid "code"
+msgstr "code"
+
+#: ../../source/annex1.rst:14
+msgid "8000"
+msgstr "8000"
+
+#: ../../source/annex1.rst:14 ../../source/annex1.rst:28
+#: ../../source/annex1.rst:29 ../../source/annex1.rst:58
+msgid "No"
+msgstr "Non Applicable"
+
+#: ../../source/annex1.rst:14
+msgid "Vessel, type unknown"
+msgstr "Bateau, type inconnu"
+
+#: ../../source/annex1.rst:14 ../../source/annex1.rst:15
+#: ../../source/annex1.rst:16 ../../source/annex1.rst:19
+#: ../../source/annex1.rst:20 ../../source/annex1.rst:22
+#: ../../source/annex1.rst:23 ../../source/annex1.rst:24
+#: ../../source/annex1.rst:25 ../../source/annex1.rst:26
+#: ../../source/annex1.rst:27 ../../source/annex1.rst:28
+#: ../../source/annex1.rst:29 ../../source/annex1.rst:32
+#: ../../source/annex1.rst:33 ../../source/annex1.rst:34
+#: ../../source/annex1.rst:35 ../../source/annex1.rst:36
+#: ../../source/annex1.rst:37 ../../source/annex1.rst:38
+#: ../../source/annex1.rst:39 ../../source/annex1.rst:40
+#: ../../source/annex1.rst:41 ../../source/annex1.rst:42
+#: ../../source/annex1.rst:43 ../../source/annex1.rst:44
+#: ../../source/annex1.rst:45 ../../source/annex1.rst:46
+#: ../../source/annex1.rst:47 ../../source/annex1.rst:60
+#: ../../source/annex1.rst:61 ../../source/annex1.rst:62
+#: ../../source/annex1.rst:64 ../../source/annex1.rst:65
+#: ../../source/annex1.rst:66 ../../source/annex1.rst:69
+#: ../../source/annex1.rst:71 ../../source/annex1.rst:73
+#: ../../source/annex1.rst:74 ../../source/annex1.rst:75
+#: ../../source/annex1.rst:76 ../../source/annex1.rst:80
+#: ../../source/annex1.rst:81 ../../source/annex1.rst:82
+msgid "9"
+msgstr "9"
+
+#: ../../source/annex1.rst:15
+msgid "8010"
+msgstr "8010"
+
+#: ../../source/annex1.rst:15 ../../source/annex1.rst:16
+#: ../../source/annex1.rst:17 ../../source/annex1.rst:18
+#: ../../source/annex1.rst:19 ../../source/annex1.rst:20
+#: ../../source/annex1.rst:21 ../../source/annex1.rst:32
+#: ../../source/annex1.rst:33 ../../source/annex1.rst:34
+#: ../../source/annex1.rst:35 ../../source/annex1.rst:36
+#: ../../source/annex1.rst:37 ../../source/annex1.rst:38
+#: ../../source/annex1.rst:57 ../../source/annex1.rst:60
+#: ../../source/annex1.rst:61 ../../source/annex1.rst:62
+#: ../../source/annex1.rst:63 ../../source/annex1.rst:64
+#: ../../source/annex1.rst:65 ../../source/annex1.rst:66
+#: ../../source/annex1.rst:67 ../../source/annex1.rst:70
+#: ../../source/annex1.rst:71 ../../source/annex1.rst:72
+#: ../../source/annex1.rst:74 ../../source/annex1.rst:75
+#: ../../source/annex1.rst:76 ../../source/annex1.rst:77
+#: ../../source/annex1.rst:78 ../../source/annex1.rst:79
+#: ../../source/annex1.rst:80 ../../source/annex1.rst:81
+#: ../../source/annex1.rst:82
+msgid "V"
+msgstr "V"
+
+#: ../../source/annex1.rst:15
+msgid "Motor freighter"
+msgstr "Vraquier à moteur"
+
+#: ../../source/annex1.rst:15 ../../source/annex1.rst:20
+#: ../../source/annex1.rst:22 ../../source/annex1.rst:24
+#: ../../source/annex1.rst:26 ../../source/annex1.rst:28
+#: ../../source/annex1.rst:39 ../../source/annex1.rst:40
+#: ../../source/annex1.rst:41 ../../source/annex1.rst:42
+#: ../../source/annex1.rst:43 ../../source/annex1.rst:44
+#: ../../source/annex1.rst:45 ../../source/annex1.rst:46
+#: ../../source/annex1.rst:47 ../../source/annex1.rst:74
+#: ../../source/annex1.rst:75 ../../source/annex1.rst:76
+#: ../../source/annex1.rst:79
+msgid "7"
+msgstr "7"
+
+#: ../../source/annex1.rst:16
+msgid "8020"
+msgstr "8020"
+
+#: ../../source/annex1.rst:16
+msgid "Motor tanker"
+msgstr "Bateau-citerne à moteur"
+
+#: ../../source/annex1.rst:16 ../../source/annex1.rst:17
+#: ../../source/annex1.rst:18 ../../source/annex1.rst:19
+#: ../../source/annex1.rst:21 ../../source/annex1.rst:23
+#: ../../source/annex1.rst:25 ../../source/annex1.rst:27
+#: ../../source/annex1.rst:29 ../../source/annex1.rst:37
+#: ../../source/annex1.rst:48 ../../source/annex1.rst:49
+#: ../../source/annex1.rst:50 ../../source/annex1.rst:51
+#: ../../source/annex1.rst:52 ../../source/annex1.rst:53
+#: ../../source/annex1.rst:54 ../../source/annex1.rst:55
+#: ../../source/annex1.rst:56 ../../source/annex1.rst:63
+#: ../../source/annex1.rst:72 ../../source/annex1.rst:77
+#: ../../source/annex1.rst:78
+msgid "8"
+msgstr "8"
+
+#: ../../source/annex1.rst:17
+msgid "8021"
+msgstr "8021"
+
+#: ../../source/annex1.rst:17
+msgid "Motor tanker, liquid cargo, type N"
+msgstr "Bateau-citerne à moteur, marchandises liquides, type N"
+
+#: ../../source/annex1.rst:17 ../../source/annex1.rst:18
+#: ../../source/annex1.rst:21 ../../source/annex1.rst:34
+#: ../../source/annex1.rst:35 ../../source/annex1.rst:38
+#: ../../source/annex1.rst:48 ../../source/annex1.rst:49
+#: ../../source/annex1.rst:50 ../../source/annex1.rst:51
+#: ../../source/annex1.rst:52 ../../source/annex1.rst:53
+#: ../../source/annex1.rst:54 ../../source/annex1.rst:55
+#: ../../source/annex1.rst:56 ../../source/annex1.rst:70
+#: ../../source/annex1.rst:72 ../../source/annex1.rst:77
+#: ../../source/annex1.rst:78
+msgid "0"
+msgstr "0"
+
+#: ../../source/annex1.rst:18
+msgid "8022"
+msgstr "8022"
+
+#: ../../source/annex1.rst:18
+msgid "Motor tanker, liquid cargo, type C"
+msgstr "Bateau-citerne à moteur, marchandises liquides, type C"
+
+#: ../../source/annex1.rst:19
+msgid "8023"
+msgstr "8023"
+
+#: ../../source/annex1.rst:19
+msgid "Motor tanker, dry cargo as if liquid (e.g. cement)"
+msgstr ""
+"Bateau-citerne pour transport de vrac sec comme s’il était liquide "
+"(ciment, par exemple)"
+
+#: ../../source/annex1.rst:20
+msgid "8030"
+msgstr "8030"
+
+#: ../../source/annex1.rst:20
+msgid "Container vessel"
+msgstr "Porte-conteneurs"
+
+#: ../../source/annex1.rst:21
+msgid "8040"
+msgstr "8040"
+
+#: ../../source/annex1.rst:21
+msgid "Gas tanker"
+msgstr "Bateau-citerne pour gaz liquéfiés"
+
+#: ../../source/annex1.rst:22
+msgid "8050"
+msgstr "8050"
+
+#: ../../source/annex1.rst:22 ../../source/annex1.rst:23
+#: ../../source/annex1.rst:24 ../../source/annex1.rst:25
+#: ../../source/annex1.rst:26 ../../source/annex1.rst:27
+#: ../../source/annex1.rst:30 ../../source/annex1.rst:31
+#: ../../source/annex1.rst:39 ../../source/annex1.rst:40
+#: ../../source/annex1.rst:41 ../../source/annex1.rst:42
+#: ../../source/annex1.rst:43 ../../source/annex1.rst:44
+#: ../../source/annex1.rst:45 ../../source/annex1.rst:46
+#: ../../source/annex1.rst:47 ../../source/annex1.rst:48
+#: ../../source/annex1.rst:49 ../../source/annex1.rst:50
+#: ../../source/annex1.rst:51 ../../source/annex1.rst:52
+#: ../../source/annex1.rst:53 ../../source/annex1.rst:54
+#: ../../source/annex1.rst:55 ../../source/annex1.rst:56
+#: ../../source/annex1.rst:59 ../../source/annex1.rst:69
+#: ../../source/annex1.rst:73
+msgid "C"
+msgstr "C"
+
+#: ../../source/annex1.rst:22
+msgid "Motor freighter, tug"
+msgstr "Vraquier motorisé, remorqueur"
+
+#: ../../source/annex1.rst:23
+msgid "8060"
+msgstr "8060"
+
+#: ../../source/annex1.rst:23
+msgid "Motor tanker, tug"
+msgstr "Bateau-citerne motorisé, remorqueur"
+
+#: ../../source/annex1.rst:24
+msgid "8070"
+msgstr "8070"
+
+#: ../../source/annex1.rst:24
+msgid "Motor freighter with one or more ships alongside"
+msgstr "Vraquier à moteur avec un ou plusieurs bateaux à couple"
+
+#: ../../source/annex1.rst:25
+msgid "8080"
+msgstr "8080"
+
+#: ../../source/annex1.rst:25
+msgid "Motor freighter with tanker"
+msgstr "Vraquier à moteur avec bateau-citerne"
+
+#: ../../source/annex1.rst:26
+msgid "8090"
+msgstr "8090"
+
+#: ../../source/annex1.rst:26
+msgid "Motor freighter pushing one or more freighters"
+msgstr "Vraquier à moteur poussant un ou plusieurs vraquiers"
+
+#: ../../source/annex1.rst:27
+msgid "8100"
+msgstr "8100"
+
+#: ../../source/annex1.rst:27
+msgid "Motor freighter pushing at least one tank-ship"
+msgstr "Vraquier à moteur poussant au moins un bateau-citerne"
+
+#: ../../source/annex1.rst:28
+msgid "8110"
+msgstr "8110"
+
+#: ../../source/annex1.rst:28
+msgid "Tug, freighter"
+msgstr "Remorqueur, vraquier"
+
+#: ../../source/annex1.rst:29
+msgid "8120"
+msgstr "8120"
+
+#: ../../source/annex1.rst:29
+msgid "Tug, tanker"
+msgstr "Remorqueur, bateau-citerne"
+
+#: ../../source/annex1.rst:30
+msgid "8130"
+msgstr "8130"
+
+#: ../../source/annex1.rst:30
+msgid "Tug freighter, coupled"
+msgstr "Remorqueur vraquier, couplé"
+
+#: ../../source/annex1.rst:30 ../../source/annex1.rst:31
+#: ../../source/annex1.rst:58 ../../source/annex1.rst:59
+#: ../../source/annex1.rst:67 ../../source/annex1.rst:70
+#: ../../source/annex1.rst:79
+msgid "3"
+msgstr "3"
+
+#: ../../source/annex1.rst:30 ../../source/annex1.rst:31
+#: ../../source/annex1.rst:58 ../../source/annex1.rst:59
+msgid "1"
+msgstr "1"
+
+#: ../../source/annex1.rst:31
+msgid "8140"
+msgstr "8140"
+
+#: ../../source/annex1.rst:31
+msgid "Tug, freighter/tanker, coupled"
+msgstr "Remorqueur, vraquier/bateau-citerne, couplé"
+
+#: ../../source/annex1.rst:32
+msgid "8150"
+msgstr "8150"
+
+#: ../../source/annex1.rst:32
+msgid "Freightbarge"
+msgstr "Chaland vraquier"
+
+#: ../../source/annex1.rst:33
+msgid "8160"
+msgstr "8160"
+
+#: ../../source/annex1.rst:33
+msgid "Tankbarge"
+msgstr "Chaland-citerne"
+
+#: ../../source/annex1.rst:34
+msgid "8161"
+msgstr "8161"
+
+#: ../../source/annex1.rst:34
+msgid "Tankbarge, liquid cargo, type N"
+msgstr "Chaland-citerne, marchandises liquides, type N"
+
+#: ../../source/annex1.rst:35
+msgid "8162"
+msgstr "8162"
+
+#: ../../source/annex1.rst:35
+msgid "Tankbarge, liquid cargo, type C"
+msgstr "Chaland-citerne, marchandises liquides, type C"
+
+#: ../../source/annex1.rst:36
+msgid "8163"
+msgstr "8163"
+
+#: ../../source/annex1.rst:36
+msgid "Tankbarge, dry cargo as if liquid (e.g. cement)"
+msgstr ""
+"Chaland-citerne conçu pour le transport de vrac sec comme s’il était "
+"liquide (ciment, par exemple)"
+
+#: ../../source/annex1.rst:37
+msgid "8170"
+msgstr "8170"
+
+#: ../../source/annex1.rst:37
+msgid "Freightbarge with containers"
+msgstr "Chaland vraquier transportant des conteneurs"
+
+#: ../../source/annex1.rst:38
+msgid "8180"
+msgstr "8180"
+
+#: ../../source/annex1.rst:38
+msgid "Tankbarge, gas"
+msgstr "Chaland-citerne, gaz"
+
+#: ../../source/annex1.rst:39
+msgid "8210"
+msgstr "8210"
+
+#: ../../source/annex1.rst:39
+msgid "Pushtow, one cargo barge"
+msgstr "Pousseur, un chaland de marchandises"
+
+#: ../../source/annex1.rst:40
+msgid "8220"
+msgstr "8220"
+
+#: ../../source/annex1.rst:40
+msgid "Pushtow, two cargo barges"
+msgstr "Pousseur, deux chalands de marchandises"
+
+#: ../../source/annex1.rst:41
+msgid "8230"
+msgstr "8230"
+
+#: ../../source/annex1.rst:41
+msgid "Pushtow, three cargo barges"
+msgstr "Pousseur, trois chalands de marchandises"
+
+#: ../../source/annex1.rst:42
+msgid "8240"
+msgstr "8240"
+
+#: ../../source/annex1.rst:42
+msgid "Pushtow, four cargo barges"
+msgstr "Pousseur, quatre chalands de marchandises"
+
+#: ../../source/annex1.rst:43
+msgid "8250"
+msgstr "8250"
+
+#: ../../source/annex1.rst:43
+msgid "Pushtow, five cargo barges"
+msgstr "Pousseur, cinq chalands de marchandises"
+
+#: ../../source/annex1.rst:44
+msgid "8260"
+msgstr "8260"
+
+#: ../../source/annex1.rst:44
+msgid "Pushtow, six cargo barges"
+msgstr "Pousseur, six chalands de marchandises"
+
+#: ../../source/annex1.rst:45
+msgid "8270"
+msgstr "8270"
+
+#: ../../source/annex1.rst:45
+msgid "Pushtow, seven cargo barges"
+msgstr "Pousseur, sept chalands de marchandises"
+
+#: ../../source/annex1.rst:46
+msgid "8280"
+msgstr "8280"
+
+#: ../../source/annex1.rst:46
+msgid "Pushtow, eigth cargo barges"
+msgstr "Pousseur, huit chalands de marchandises"
+
+#: ../../source/annex1.rst:47
+msgid "8290"
+msgstr "8290"
+
+#: ../../source/annex1.rst:47
+msgid "Pushtow, nine or more barges"
+msgstr "Pousseur, neuf ou plus chalands de marchandises"
+
+#: ../../source/annex1.rst:48
+msgid "8310"
+msgstr "8310"
+
+#: ../../source/annex1.rst:48
+msgid "Pushtow, one tank/gas barge"
+msgstr "Pousseur, un chaland-citerne ou de transport de gaz"
+
+#: ../../source/annex1.rst:49
+msgid "8320"
+msgstr "8320"
+
+#: ../../source/annex1.rst:49
+msgid "Pushtow, two barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, deux chalands dont au moins un chaland-citerne ou de transport "
+"de gaz"
+
+#: ../../source/annex1.rst:50
+msgid "8330"
+msgstr "8330"
+
+#: ../../source/annex1.rst:50
+msgid "Pushtow, three barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, trois chalands dont au moins un chaland-citerne ou de "
+"transport de gaz"
+
+#: ../../source/annex1.rst:51
+msgid "8340"
+msgstr "8340"
+
+#: ../../source/annex1.rst:51
+msgid "Pushtow, four barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, quatre chalands dont au moins un chaland-citerne ou de "
+"transport de gaz"
+
+#: ../../source/annex1.rst:52
+msgid "8350"
+msgstr "8350"
+
+#: ../../source/annex1.rst:52
+msgid "Pushtow, five barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, cinq chalands dont au moins un chaland-citerne ou de transport "
+"de gaz"
+
+#: ../../source/annex1.rst:53
+msgid "8360"
+msgstr "8360"
+
+#: ../../source/annex1.rst:53
+msgid "Pushtow, six barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, six chalands dont au moins un chaland-citerne ou de transport "
+"de gaz"
+
+#: ../../source/annex1.rst:54
+msgid "8370"
+msgstr "8370"
+
+#: ../../source/annex1.rst:54
+msgid "Pushtow, seven barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, sept chalands dont au moins un chaland-citerne ou de transport "
+"de gaz"
+
+#: ../../source/annex1.rst:55
+msgid "8380"
+msgstr "8380"
+
+#: ../../source/annex1.rst:55
+msgid "Pushtow, eight barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, huit chalands dont au moins un chaland-citerne ou de transport "
+"de gaz"
+
+#: ../../source/annex1.rst:56
+msgid "8390"
+msgstr "8390"
+
+#: ../../source/annex1.rst:56
+msgid "Pushtow, nine or more barges at least one tanker or gas barge"
+msgstr ""
+"Pousseur, neuf chalands ou plus dont au moins un chaland-citerne ou de "
+"transport de gaz"
+
+#: ../../source/annex1.rst:57
+msgid "8400"
+msgstr "8400"
+
+#: ../../source/annex1.rst:57
+msgid "Tug, single"
+msgstr "Remorqueur, seul"
+
+#: ../../source/annex1.rst:57 ../../source/annex1.rst:63
+msgid "5"
+msgstr "5"
+
+#: ../../source/annex1.rst:57
+msgid "2"
+msgstr "2"
+
+#: ../../source/annex1.rst:58
+msgid "8410"
+msgstr "8410"
+
+#: ../../source/annex1.rst:58
+msgid "Tug, one or more tows"
+msgstr "Remorqueur, pour un ou plusieurs remorquages"
+
+#: ../../source/annex1.rst:59
+msgid "8420"
+msgstr "8420"
+
+#: ../../source/annex1.rst:59
+msgid "Tug, assisting a vessel or linked combination"
+msgstr "Remorqueur, assistant un bateau ou une combinaison liée"
+
+#: ../../source/annex1.rst:60
+msgid "8430"
+msgstr "8430"
+
+#: ../../source/annex1.rst:60
+msgid "Pushboat, single"
+msgstr "Pousseur, seul"
+
+#: ../../source/annex1.rst:61
+msgid "8440"
+msgstr "8440"
+
+#: ../../source/annex1.rst:61
+msgid "Passenger ship, ferry, cruise ship, red cross ship"
+msgstr ""
+"Bateau de passagers, ferry, bateau de croisière, bateau de la Croix-Rouge"
+
+#: ../../source/annex1.rst:61 ../../source/annex1.rst:62
+#: ../../source/annex1.rst:64 ../../source/annex1.rst:65
+msgid "6"
+msgstr "6"
+
+#: ../../source/annex1.rst:62
+msgid "8441"
+msgstr "8441"
+
+#: ../../source/annex1.rst:62
+msgid "Ferry"
+msgstr "Ferry"
+
+#: ../../source/annex1.rst:63
+msgid "8442"
+msgstr "8442"
+
+#: ../../source/annex1.rst:63
+msgid "Red cross ship"
+msgstr "Bateau de la Croix-Rouge"
+
+#: ../../source/annex1.rst:64
+msgid "8443"
+msgstr "8443"
+
+#: ../../source/annex1.rst:64
+msgid "Cruise ship"
+msgstr "Bateau de croisière"
+
+#: ../../source/annex1.rst:65
+msgid "8444"
+msgstr "8444"
+
+#: ../../source/annex1.rst:65
+msgid "Passenger ship without accomodation"
+msgstr "Bateau pour le transport de passagers sans cabine ni restaurant"
+
+#: ../../source/annex1.rst:66
+msgid "8450"
+msgstr "8450"
+
+#: ../../source/annex1.rst:66
+msgid "Service vessel, police patrol, port service"
+msgstr "Bateau de service, patrouilleur de police, services portuaires"
+
+#: ../../source/annex1.rst:67
+msgid "8460"
+msgstr "8460"
+
+#: ../../source/annex1.rst:67
+msgid ""
+"Vessel, work maintainance craft, floating derrick, cable-ship, buoy-"
+"ship, dredge"
+msgstr ""
+"Bateau, bateau atelier, ponton bigue, câblier, bateau pour le mouillage "
+"des bouées, drague"
+
+#: ../../source/annex1.rst:69
+msgid "8470"
+msgstr "8470"
+
+#: ../../source/annex1.rst:69
+msgid "Object, towed, not otherwise specified"
+msgstr "Objet, remorqué, non spécifié ailleurs"
+
+#: ../../source/annex1.rst:70
+msgid "8480"
+msgstr "8480"
+
+#: ../../source/annex1.rst:70
+msgid "Fishing boat"
+msgstr "Bateau de pêche"
+
+#: ../../source/annex1.rst:71
+msgid "8490"
+msgstr "8490"
+
+#: ../../source/annex1.rst:71
+msgid "Bunkership"
+msgstr "Bateau de soutage"
+
+#: ../../source/annex1.rst:72
+msgid "8500"
+msgstr "8500"
+
+#: ../../source/annex1.rst:72
+msgid "Barge, tanker, chemical"
+msgstr "Chaland, bateau-citerne, produits chimiques"
+
+#: ../../source/annex1.rst:73
+msgid "8510"
+msgstr "8510"
+
+#: ../../source/annex1.rst:73
+msgid "Object, not otherwise specified"
+msgstr "Objet, non spécifié ailleurs"
+
+#: ../../source/annex1.rst:74
+msgid "1500"
+msgstr "1500"
+
+#: ../../source/annex1.rst:74
+msgid "General cargo Vessel maritime"
+msgstr "Transporteur maritime de marchandises générales"
+
+#: ../../source/annex1.rst:75
+msgid "1510"
+msgstr "1510"
+
+#: ../../source/annex1.rst:75
+msgid "Unit carrier maritime"
+msgstr "Porte-conteneurs maritime"
+
+#: ../../source/annex1.rst:76
+msgid "1520"
+msgstr "1520"
+
+#: ../../source/annex1.rst:76
+msgid "bulk carrier maritime"
+msgstr "vraquier maritime"
+
+#: ../../source/annex1.rst:77
+msgid "1530"
+msgstr "1530"
+
+#: ../../source/annex1.rst:77
+msgid "tanker"
+msgstr "bateau-citerne"
+
+#: ../../source/annex1.rst:78
+msgid "1540"
+msgstr "1540"
+
+#: ../../source/annex1.rst:78
+msgid "liquified gas tanker"
+msgstr "bateau-citerne pour gaz liquéfiés"
+
+#: ../../source/annex1.rst:79
+msgid "1850"
+msgstr "1850"
+
+#: ../../source/annex1.rst:79
+msgid "pleasure craft, longer than 20 metres"
+msgstr "bateau de plaisance de plus de 20 mètres"
+
+#: ../../source/annex1.rst:80
+msgid "1900"
+msgstr "1900"
+
+#: ../../source/annex1.rst:80
+msgid "fast ship"
+msgstr "bateau rapide"
+
+#: ../../source/annex1.rst:80 ../../source/annex1.rst:81
+#: ../../source/annex1.rst:82
+msgid "4"
+msgstr "4"
+
+#: ../../source/annex1.rst:81
+msgid "1910"
+msgstr "1910"
+
+#: ../../source/annex1.rst:81
+msgid "hydrofoil"
+msgstr "hydroglisseur"
+
+#: ../../source/annex1.rst:82
+msgid "1920"
+msgstr "1920"
+
+#: ../../source/annex1.rst:82
+msgid "catamaran fast"
+msgstr "catamaran rapide"
