@@ -5,23 +5,25 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 16:36+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/privacyofdata.rst:3
 msgid "Privacy of data"
-msgstr ""
+msgstr "Privacy van gegevens"
 
 #: ../../source/privacyofdata.rst:5
 msgid ""
@@ -30,6 +32,10 @@ msgid ""
 "the cargo onboard is transmitted. In general it can be said that mainly "
 "information which can be seen on the ship itself is sent in AIS messages."
 msgstr ""
+"AIS is een identificatiesysteem. Het geeft informatie over het schip en "
+"zijn positie. Het stuurt geen gedetailleerde informatie door over de "
+"lading aan boord. In het algemeen bevatten AIS-boodschappen vooral "
+"informatie die je ook kunt zien als je het schip zelf bekijkt."
 
 #: ../../source/privacyofdata.rst:7
 msgid ""
@@ -38,14 +44,24 @@ msgid ""
 "read. The reason that AIS is an open system is because AIS is designed "
 "for safety purposes so that everyone can receive the messages."
 msgstr ""
+"(Inland) AIS is een open omroepsysteem. Het zendt boodschappen uit die "
+"iedereen met een AIS-station kan ontvangen en lezen. Dat AIS een open "
+"systeem is, komt doordat het ontwikkeld is voor veiligheidsdoeleinden. "
+"Daarom is het van belang dat iedereen de boodschappen kan ontvangen."
 
 #: ../../source/privacyofdata.rst:9
+#, fuzzy
 msgid ""
 "Competent Authorities are obligated to respect privacy regulations. "
 "Reception of AIS information can easily be achieved with AIS receiving "
-"stations. However, publication of AIS information on the internet without"
-" permission of the sender (owner) of the information is not allowed in "
-"most European countries. In some countries even the reception of AIS "
-"information by uninvolved parties is forbidden."
+"stations. However, publication of AIS information on the internet "
+"without permission of the sender (owner) of the information is not "
+"allowed in most European countries. In some countries even the reception "
+"of AIS information by uninvolved parties is forbidden."
 msgstr ""
-
+"Bevoegde instanties zijn verplicht om de privacywetten te respecteren. "
+"AIS-ontvangstations kunnen gemakkelijk AIS-informatie ontvangen, maar de "
+"meeste Europese landen laten niet toe dat die informatie op het Internet "
+"wordt gepubliceerd zonder toestemming van de informatie-eigenaar "
+"(zender). In sommige landen is het zelfs verboden dat derden de AIS-"
+"informatie ontvangen."

@@ -5,61 +5,74 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:57+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/otheraisstations.rst:3
 msgid "Other AIS stations"
-msgstr ""
+msgstr "Egyéb AIS-állomások"
 
 #: ../../source/otheraisstations.rst:5
 msgid ""
-"Several others types of AIS station have different purposes in use. The "
-"most important are:"
+"Several others types of AIS station have different purposes in use. The most "
+"important are:"
 msgstr ""
+"Számos egyéb fajta AIS állomás is létezik, amelyek mind különböző célt "
+"szolgálnak. Ezek közül a legfontosabbak az alábbiak:"
 
 #: ../../source/otheraisstations.rst:7
 msgid ""
 "Inland AIS : AIS station for inland shipping (mandatory under regional "
 "regulation)"
 msgstr ""
+"Belvízi AIS : AIS állomás belvízi hajózáshoz (a helyi szabályozás értelmében "
+"kötelező)"
 
 #: ../../source/otheraisstations.rst:8
 msgid "Class A : AIS station for seagoing ships (mandatory under SOLAS)."
 msgstr ""
+"A osztály : AIS állomás tengeri hajókra (a SOLAS egyezmény értelmében kötelező)"
 
 #: ../../source/otheraisstations.rst:9
 msgid ""
-"Class B : AIS station for recreational ships and other small ships "
-"(voluntary or mandatory for some ship types under regional regulation)."
+"Class B : AIS station for recreational ships and other small ships (voluntary "
+"or mandatory for some ship types under regional regulation)."
 msgstr ""
+"B osztály : AIS állomás kedvtelési célú és más kishajókra (a helyi szabályozás "
+"értelmében saját elhatározásból vagy kötelezően telepítendő bizonyos típusú "
+"úszólétesítmények esetében)"
 
 #: ../../source/otheraisstations.rst:10
 msgid "AIS AtoN : AIS station for Aids to Navigation, e.g. buoys, wreck marking."
 msgstr ""
+"AIS AtoN : AIS állomás navigációt segítő szolgáltatásokhoz, például bóják és "
+"hajóroncsok helyének jelölésére."
 
 #: ../../source/otheraisstations.rst:11
 msgid "AIS SART : AIS Search and Rescue Transmitter for lifeboats."
-msgstr ""
+msgstr "AIS SART : AIS kutató-mentő jeladó életmentő csónakokhoz."
 
 #: ../../source/otheraisstations.rst:12
 msgid "AIS Base Station : AIS station on shore."
-msgstr ""
+msgstr "AIS bázisállomás : AIS-állomás a parton."
 
 #: ../../source/otheraisstations.rst:13
 msgid ""
-"AIS Repeater : AIS station on shore for extended coverage between ships, "
-"e.g. in hilly areas."
+"AIS Repeater : AIS station on shore for extended coverage between ships, e.g. "
+"in hilly areas."
 msgstr ""
-
+"AIS jelismétlő : Parti AIS-állomás az úszólétesítmények közötti kiterjesztett "
+"lefedettség megteremtésére, például dombos területeken."

@@ -5,31 +5,38 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:35+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/bluesign.rst:3
 msgid "Blue sign"
-msgstr ""
+msgstr "Kék jelzés"
 
 #: ../../source/bluesign.rst:5
 msgid ""
-"Some ships have the blue sign connected to the Inland AIS station; others"
-" do not have this connection. Skippers should be aware of this situation."
-" Not all AIS symbols on the ECDIS will represent the real situation with "
-"respect to the connection of the blue sign. So, if the blue sign is not "
-"shown, it will not necessarily indicate that the blue sign is not set, "
-"because of the possible missing connection!"
+"Some ships have the blue sign connected to the Inland AIS station; "
+"others do not have this connection. Skippers should be aware of this "
+"situation. Not all AIS symbols on the ECDIS will represent the real "
+"situation with respect to the connection of the blue sign. So, if the "
+"blue sign is not shown, it will not necessarily indicate that the blue "
+"sign is not set, because of the possible missing connection!"
 msgstr ""
-
+"Egyes hajók kék jelzése a belvízi AIS-állomással össze van kötve, míg "
+"más hajóké nem. A hajóvezetőknek ezzel tisztában kell lenniük. A kék "
+"jelzést illetően nem minden ECDIS-en megjelenített AIS-szimbólum tükrözi "
+"a valós helyzetet. Következésképp, a kék jelzés hiánya nem feltétlenül "
+"jelenti azt, hogy a kék jelzés nincs bekapcsolva, mivel felmerülhet az "
+"is, hogy csak nincs összekötve az AIS-állomással!"

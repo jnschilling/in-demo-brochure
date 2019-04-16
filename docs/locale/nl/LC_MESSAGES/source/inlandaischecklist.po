@@ -5,150 +5,168 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-16 10:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 16:16+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/inlandaischecklist.rst:3
 msgid "Inland AIS Checklist"
-msgstr ""
+msgstr "Inland AIS Checklist"
 
 #: ../../source/inlandaischecklist.rst:5
 msgid "Operation of the Inland AIS station on board an inland ship"
-msgstr ""
+msgstr "Hoe gebruik je het Inland AIS-station aan boord van een binnenschip"
 
 #: ../../source/inlandaischecklist.rst:7
 msgid ""
-"This checklist should help the skipper operate the Inland AIS station on "
-"board the vessel. The purpose is to give a short overview of what kind of"
-" data should be input and kept up to date during the voyage of the inland"
-" ship. The actual requirement of the data input may differ between "
-"regions. The minimum requirements of the data content are published in "
-"the appropriate regional regulation of the river commission or the "
-"national legislation."
+"This checklist should help the skipper operate the Inland AIS station on board "
+"the vessel. The purpose is to give a short overview of what kind of data should "
+"be input and kept up to date during the voyage of the inland ship. The actual "
+"requirement of the data input may differ between regions. The minimum "
+"requirements of the data content are published in the appropriate regional "
+"regulation of the river commission or the national legislation."
 msgstr ""
+"Deze checklist moet binnenvaartondernemers helpen om het Inland AIS station aan "
+"boord te gebruiken. We overlopen kort welke gegevens moeten worden ingevoerd en "
+"up to date gehouden tijdens de reis van het binnenschip. Welke gegevens precies "
+"verplicht zijn, kan variëren per regio. De minimumvereisten voor de "
+"gegevensinhoud staan gepubliceerd in de betreffende regelgeving van de "
+"riviercommissie of in de nationale wetgeving."
 
 #: ../../source/inlandaischecklist.rst:11
 msgid "BEFORE THE VOYAGE"
-msgstr ""
+msgstr "VOOR DE REIS"
 
 #: ../../source/inlandaischecklist.rst:13
 msgid ""
-"Before the voyage starts, check that the Inland AIS station is switched "
-"on."
-msgstr ""
+"Before the voyage starts, check that the Inland AIS station is switched on."
+msgstr "Controleer of het Inland AIS-station aangeschakeld staat voor je afvaart."
 
 #: ../../source/inlandaischecklist.rst:15
 msgid "Check your own ship data transmitted by the Inland AIS (once in a while) :"
 msgstr ""
+"Controleer (af en toe) je eigen scheepsgegevens die je Inland AIS doorstuurt:"
 
 #: ../../source/inlandaischecklist.rst:17
 msgid "Name of the ship."
-msgstr ""
+msgstr "Naam van het schip."
 
 #: ../../source/inlandaischecklist.rst:18
 msgid "ENI number."
-msgstr ""
+msgstr "ENI-nummer."
 
 #: ../../source/inlandaischecklist.rst:19
+#, fuzzy
 msgid "ERI ship and convoy type."
-msgstr ""
+msgstr "ERI type schip en konvooi."
 
 #: ../../source/inlandaischecklist.rst:20
 msgid "Length and beam of ship."
-msgstr ""
+msgstr "Lengte en breedte van het schip."
 
 #: ../../source/inlandaischecklist.rst:21
 msgid "Reference point of the GPS antenna."
-msgstr ""
+msgstr "Referentiepunt van de gps-antenne."
 
 #: ../../source/inlandaischecklist.rst:22
 msgid "If blue sign is connected, check that blue sign status is correct."
 msgstr ""
+"Als het blauw bord met het systeem in verbinding staat: controleer of de status "
+"van het blauw bord correct is."
 
 #: ../../source/inlandaischecklist.rst:23
 msgid ""
-"Check if you are receiving data from other vessels (which you may see "
-"visually) on the MKD or Inland ECDIS."
+"Check if you are receiving data from other vessels (which you may see visually) "
+"on the MKD or Inland ECDIS."
 msgstr ""
+"Controleer of je de gegevens ontvangt van andere schepen (die je kunt zien "
+"vanuit de stuurhut) op de MKD of Inland ECDIS."
 
 #: ../../source/inlandaischecklist.rst:27
 msgid "SHORTLY BEFORE STATING THE VOYAGE"
-msgstr ""
+msgstr "KORT VOOR DE AFVAART"
 
 #: ../../source/inlandaischecklist.rst:29
 msgid ""
-"Amend your own ship’s data for the planned voyage according to the "
-"regional regulation for the river where you are navigating :"
+"Amend your own ship’s data for the planned voyage according to the regional "
+"regulation for the river where you are navigating :"
 msgstr ""
+"Pas voor de geplande reisweg de gegevens van je schip aan aan de regionale "
+"regelgeving voor de rivier die je afvaart:"
 
 #: ../../source/inlandaischecklist.rst:31
 msgid "Dangerous cargo indication (number of blue cones),"
-msgstr ""
+msgstr "Aanduiding van gevaarlijke lading (aantal blauwe kegels),"
 
 #: ../../source/inlandaischecklist.rst:32
 msgid "Destination,"
-msgstr ""
+msgstr "Bestemming,"
 
 #: ../../source/inlandaischecklist.rst:33
 msgid "Depth,"
-msgstr ""
+msgstr "Diepgang,"
 
 #: ../../source/inlandaischecklist.rst:34
 msgid ""
-"In case of convoy length and beam of convoy and the reference point of "
-"the GPS antenna. Also if the previous voyage was a convoy it should be "
-"adjusted accordingly,"
+"In case of convoy length and beam of convoy and the reference point of the GPS "
+"antenna. Also if the previous voyage was a convoy it should be adjusted "
+"accordingly,"
 msgstr ""
+"Als je in een combinatie vaart: lengte en breedte van de combinatie, en "
+"referentiepunt van de gpsantenne. Ook als de vorige reis in een combinatie was, "
+"moeten die gegevens worden aangepast,"
 
 #: ../../source/inlandaischecklist.rst:35
 msgid ""
-"Set the navigational status information of the ship to “underway” with "
-"respect to the navigational status that is applicable."
+"Set the navigational status information of the ship to “underway” with respect "
+"to the navigational status that is applicable."
 msgstr ""
+"Verander de navigatiestatus van het schip in “onderweg” met betrekking tot de "
+"navigatiestatus die van toepassing is."
 
 #: ../../source/inlandaischecklist.rst:39
 msgid "DURING THE VOYAGE"
-msgstr ""
+msgstr "TIJDENS DE REIS"
 
 #: ../../source/inlandaischecklist.rst:41
 msgid "Keep the navigational status information of the ship up to date,"
-msgstr ""
+msgstr "Houd de navigatiestatus van het schip up to date,"
 
 #: ../../source/inlandaischecklist.rst:42
 msgid ""
-"Check if you are receiving data from other vessels (which you may see "
-"visually)."
+"Check if you are receiving data from other vessels (which you may see visually)."
 msgstr ""
+"Controleer of je gegevens ontvangt van andere schepen (die je kunt zien vanuit "
+"de stuurhut)."
 
 #: ../../source/inlandaischecklist.rst:46
 msgid "AFTER THE VOYAGE"
-msgstr ""
+msgstr "NA DE REIS"
 
 #: ../../source/inlandaischecklist.rst:48
 msgid "Set the navigational status information to “moored” or “at anchor”,"
 msgstr ""
+"Verander de navigatiestatus van het schip in “aangemeerd” of “voor anker”,"
 
 #: ../../source/inlandaischecklist.rst:49
 msgid "Amend the voyage-related data if necessary,"
-msgstr ""
+msgstr "Pas indien nodig de reisgerelateerde gegevens aan,"
 
 #: ../../source/inlandaischecklist.rst:50
 msgid ""
-"Operate the Inland AIS station according to the regional regulation for "
-"the river/port where you are."
+"Operate the Inland AIS station according to the regional regulation for the "
+"river/port where you are."
 msgstr ""
-
-#~ msgid "Dangerous cargo indication,"
-#~ msgstr ""
-
+"Gebruik het Inland AIS-station in overeenstemming met de regionale regelgeving "
+"van de rivier/haven waar je je bevindt."

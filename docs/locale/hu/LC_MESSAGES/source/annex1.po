@@ -5,74 +5,79 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:34+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/annex1.rst:3
 msgid "ANNEX 1: ERI ship or convoy types"
-msgstr ""
+msgstr "1-es számú melléklet: ERI hajó- és kötelék típusok"
 
 #: ../../source/annex1.rst:5
 msgid ""
 "This table should be used to input the actual vessel type or convoy type "
 "before the voyage starts (see the Inland AIS checklist)."
 msgstr ""
+"Ez a táblázat a hajóút megkezdése előtt (lásd belvízi AIS ellenőrzési "
+"lista) az adott hajó vagy kötelék típusának\n"
+"beviteléhez használatos."
 
 #: ../../source/annex1.rst:9
 msgid "ERI CODE"
-msgstr ""
+msgstr "ERI-kód"
 
 #: ../../source/annex1.rst:9
 msgid "SOLAS AIS Code"
-msgstr ""
+msgstr "SOLAS AIS kód"
 
 #: ../../source/annex1.rst:11
 msgid "Ship"
-msgstr ""
+msgstr "Hajó"
 
 #: ../../source/annex1.rst:11
 msgid "U"
-msgstr ""
+msgstr "U"
 
 #: ../../source/annex1.rst:11
 msgid "Ship Type"
-msgstr ""
+msgstr "Hajó megnevezése"
 
 #: ../../source/annex1.rst:11
 msgid "1st digit"
-msgstr ""
+msgstr "Első számjegy"
 
 #: ../../source/annex1.rst:11
 msgid "2nd digit"
-msgstr ""
+msgstr "Második számjegy"
 
 #: ../../source/annex1.rst:12
 msgid "code"
-msgstr ""
+msgstr "kód"
 
 #: ../../source/annex1.rst:14
 msgid "8000"
-msgstr ""
+msgstr "8000"
 
 #: ../../source/annex1.rst:14 ../../source/annex1.rst:28
 #: ../../source/annex1.rst:29 ../../source/annex1.rst:58
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: ../../source/annex1.rst:14
 msgid "Vessel, type unknown"
-msgstr ""
+msgstr "Hajó, típusa ismeretlen"
 
 #: ../../source/annex1.rst:14 ../../source/annex1.rst:15
 #: ../../source/annex1.rst:16 ../../source/annex1.rst:19
@@ -97,11 +102,11 @@ msgstr ""
 #: ../../source/annex1.rst:76 ../../source/annex1.rst:80
 #: ../../source/annex1.rst:81 ../../source/annex1.rst:82
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: ../../source/annex1.rst:15
 msgid "8010"
-msgstr ""
+msgstr "8010"
 
 #: ../../source/annex1.rst:15 ../../source/annex1.rst:16
 #: ../../source/annex1.rst:17 ../../source/annex1.rst:18
@@ -122,11 +127,11 @@ msgstr ""
 #: ../../source/annex1.rst:80 ../../source/annex1.rst:81
 #: ../../source/annex1.rst:82
 msgid "V"
-msgstr ""
+msgstr "V"
 
 #: ../../source/annex1.rst:15
 msgid "Motor freighter"
-msgstr ""
+msgstr "Önjáró teherhajó"
 
 #: ../../source/annex1.rst:15 ../../source/annex1.rst:20
 #: ../../source/annex1.rst:22 ../../source/annex1.rst:24
@@ -139,15 +144,15 @@ msgstr ""
 #: ../../source/annex1.rst:75 ../../source/annex1.rst:76
 #: ../../source/annex1.rst:79
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ../../source/annex1.rst:16
 msgid "8020"
-msgstr ""
+msgstr "8020"
 
 #: ../../source/annex1.rst:16
 msgid "Motor tanker"
-msgstr ""
+msgstr "Önjáró tartályhajó"
 
 #: ../../source/annex1.rst:16 ../../source/annex1.rst:17
 #: ../../source/annex1.rst:18 ../../source/annex1.rst:19
@@ -162,15 +167,15 @@ msgstr ""
 #: ../../source/annex1.rst:72 ../../source/annex1.rst:77
 #: ../../source/annex1.rst:78
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: ../../source/annex1.rst:17
 msgid "8021"
-msgstr ""
+msgstr "8021"
 
 #: ../../source/annex1.rst:17
 msgid "Motor tanker, liquid cargo, type N"
-msgstr ""
+msgstr "Önjáró tartályhajó, folyékony rakomány, N típus"
 
 #: ../../source/annex1.rst:17 ../../source/annex1.rst:18
 #: ../../source/annex1.rst:21 ../../source/annex1.rst:34
@@ -183,43 +188,43 @@ msgstr ""
 #: ../../source/annex1.rst:72 ../../source/annex1.rst:77
 #: ../../source/annex1.rst:78
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../source/annex1.rst:18
 msgid "8022"
-msgstr ""
+msgstr "8022"
 
 #: ../../source/annex1.rst:18
 msgid "Motor tanker, liquid cargo, type C"
-msgstr ""
+msgstr "Önjáró tartályhajó, folyékony rakomány, C típus"
 
 #: ../../source/annex1.rst:19
 msgid "8023"
-msgstr ""
+msgstr "8023"
 
 #: ../../source/annex1.rst:19
 msgid "Motor tanker, dry cargo as if liquid (e.g. cement)"
-msgstr ""
+msgstr "Ömlesztett árut szállító önjáró tartályhajó"
 
 #: ../../source/annex1.rst:20
 msgid "8030"
-msgstr ""
+msgstr "8030"
 
 #: ../../source/annex1.rst:20
 msgid "Container vessel"
-msgstr ""
+msgstr "Konténerszállító hajó"
 
 #: ../../source/annex1.rst:21
 msgid "8040"
-msgstr ""
+msgstr "8040"
 
 #: ../../source/annex1.rst:21
 msgid "Gas tanker"
-msgstr ""
+msgstr "Gázszállító tartályhajó"
 
 #: ../../source/annex1.rst:22
 msgid "8050"
-msgstr ""
+msgstr "8050"
 
 #: ../../source/annex1.rst:22 ../../source/annex1.rst:23
 #: ../../source/annex1.rst:24 ../../source/annex1.rst:25
@@ -237,513 +242,528 @@ msgstr ""
 #: ../../source/annex1.rst:59 ../../source/annex1.rst:69
 #: ../../source/annex1.rst:73
 msgid "C"
-msgstr ""
+msgstr "C"
 
 #: ../../source/annex1.rst:22
 msgid "Motor freighter, tug"
-msgstr ""
+msgstr "Vontatásra alkalmas önjáró teherhajó"
 
 #: ../../source/annex1.rst:23
 msgid "8060"
-msgstr ""
+msgstr "8060"
 
 #: ../../source/annex1.rst:23
 msgid "Motor tanker, tug"
-msgstr ""
+msgstr "Vontatásra alkalmas önjáró tartályhajó"
 
 #: ../../source/annex1.rst:24
 msgid "8070"
-msgstr ""
+msgstr "8070"
 
 #: ../../source/annex1.rst:24
 msgid "Motor freighter with one or more ships alongside"
-msgstr ""
+msgstr "Mellévett alakzatban közlekedő teherhajók"
 
 #: ../../source/annex1.rst:25
 msgid "8080"
-msgstr ""
+msgstr "8080"
 
 #: ../../source/annex1.rst:25
 msgid "Motor freighter with tanker"
-msgstr ""
+msgstr "Mellévett alakzatban közlekedő tartályhajó"
 
 #: ../../source/annex1.rst:26
 msgid "8090"
-msgstr ""
+msgstr "8090"
 
 #: ../../source/annex1.rst:26
 msgid "Motor freighter pushing one or more freighters"
-msgstr ""
+msgstr "Egy vagy több teherszállító hajóból álló tolt kötelék"
 
 #: ../../source/annex1.rst:27
 msgid "8100"
-msgstr ""
+msgstr "8100"
 
 #: ../../source/annex1.rst:27
 msgid "Motor freighter pushing at least one tank-ship"
-msgstr ""
+msgstr "Egy vagy több tartályhajóból álló tolt kötelék"
 
 #: ../../source/annex1.rst:28
 msgid "8110"
-msgstr ""
+msgstr "8110"
 
 #: ../../source/annex1.rst:28
 msgid "Tug, freighter"
-msgstr ""
+msgstr "Teherhajókat vontató hajó"
 
 #: ../../source/annex1.rst:29
 msgid "8120"
-msgstr ""
+msgstr "8120"
 
 #: ../../source/annex1.rst:29
 msgid "Tug, tanker"
-msgstr ""
+msgstr "Tartályhajókat vontató hajó"
 
 #: ../../source/annex1.rst:30
 msgid "8130"
-msgstr ""
+msgstr "8130"
 
 #: ../../source/annex1.rst:30
 msgid "Tug freighter, coupled"
-msgstr ""
+msgstr "Teherhajókat kötelékben vontató hajó"
 
 #: ../../source/annex1.rst:30 ../../source/annex1.rst:31
 #: ../../source/annex1.rst:58 ../../source/annex1.rst:59
 #: ../../source/annex1.rst:67 ../../source/annex1.rst:70
 #: ../../source/annex1.rst:79
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/annex1.rst:30 ../../source/annex1.rst:31
 #: ../../source/annex1.rst:58 ../../source/annex1.rst:59
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/annex1.rst:31
 msgid "8140"
-msgstr ""
+msgstr "8140"
 
 #: ../../source/annex1.rst:31
 msgid "Tug, freighter/tanker, coupled"
-msgstr ""
+msgstr "Teherhajókat/tartályhajókat kötelékben vontató hajó"
 
 #: ../../source/annex1.rst:32
 msgid "8150"
-msgstr ""
+msgstr "8150"
 
 #: ../../source/annex1.rst:32
 msgid "Freightbarge"
-msgstr ""
+msgstr "Teherszállító bárka"
 
 #: ../../source/annex1.rst:33
 msgid "8160"
-msgstr ""
+msgstr "8160"
 
 #: ../../source/annex1.rst:33
 msgid "Tankbarge"
-msgstr ""
+msgstr "Tartálybárka"
 
 #: ../../source/annex1.rst:34
 msgid "8161"
-msgstr ""
+msgstr "8161"
 
 #: ../../source/annex1.rst:34
 msgid "Tankbarge, liquid cargo, type N"
-msgstr ""
+msgstr "Tartálybárka, folyékony rakomány, N típus"
 
 #: ../../source/annex1.rst:35
 msgid "8162"
-msgstr ""
+msgstr "8162"
 
 #: ../../source/annex1.rst:35
 msgid "Tankbarge, liquid cargo, type C"
-msgstr ""
+msgstr "Tartálybárka, folyékony rakomány, C típus"
 
 #: ../../source/annex1.rst:36
 msgid "8163"
-msgstr ""
+msgstr "8163"
 
 #: ../../source/annex1.rst:36
 msgid "Tankbarge, dry cargo as if liquid (e.g. cement)"
-msgstr ""
+msgstr "Ömlesztett árut szállító tartálybárka"
 
 #: ../../source/annex1.rst:37
 msgid "8170"
-msgstr ""
+msgstr "8170"
 
 #: ../../source/annex1.rst:37
 msgid "Freightbarge with containers"
-msgstr ""
+msgstr "Konténerszállító bárka"
 
 #: ../../source/annex1.rst:38
 msgid "8180"
-msgstr ""
+msgstr "8180"
 
 #: ../../source/annex1.rst:38
 msgid "Tankbarge, gas"
-msgstr ""
+msgstr "Gázszállító tartálybárka"
 
 #: ../../source/annex1.rst:39
 msgid "8210"
-msgstr ""
+msgstr "8210"
 
 #: ../../source/annex1.rst:39
 msgid "Pushtow, one cargo barge"
-msgstr ""
+msgstr "Tolóhajó, egy teherszállító bárkával"
 
 #: ../../source/annex1.rst:40
 msgid "8220"
-msgstr ""
+msgstr "8220"
 
 #: ../../source/annex1.rst:40
 msgid "Pushtow, two cargo barges"
-msgstr ""
+msgstr "Tolóhajó, két teherszállító bárkával"
 
 #: ../../source/annex1.rst:41
 msgid "8230"
-msgstr ""
+msgstr "8230"
 
 #: ../../source/annex1.rst:41
 msgid "Pushtow, three cargo barges"
-msgstr ""
+msgstr "Tolóhajó, három teherszállító bárkával"
 
 #: ../../source/annex1.rst:42
 msgid "8240"
-msgstr ""
+msgstr "8240"
 
 #: ../../source/annex1.rst:42
 msgid "Pushtow, four cargo barges"
-msgstr ""
+msgstr "Tolóhajó, négy teherszállító bárkával"
 
 #: ../../source/annex1.rst:43
 msgid "8250"
-msgstr ""
+msgstr "8250"
 
 #: ../../source/annex1.rst:43
 msgid "Pushtow, five cargo barges"
-msgstr ""
+msgstr "Tolóhajó, öt teherszállító bárkával"
 
 #: ../../source/annex1.rst:44
 msgid "8260"
-msgstr ""
+msgstr "8260"
 
 #: ../../source/annex1.rst:44
 msgid "Pushtow, six cargo barges"
-msgstr ""
+msgstr "Tolóhajó, hat teherszállító bárkával"
 
 #: ../../source/annex1.rst:45
 msgid "8270"
-msgstr ""
+msgstr "8270"
 
 #: ../../source/annex1.rst:45
 msgid "Pushtow, seven cargo barges"
-msgstr ""
+msgstr "Tolóhajó, hét teherszállító bárkával"
 
 #: ../../source/annex1.rst:46
 msgid "8280"
-msgstr ""
+msgstr "8280"
 
 #: ../../source/annex1.rst:46
 msgid "Pushtow, eigth cargo barges"
-msgstr ""
+msgstr "Tolóhajó, nyolc teherszállító bárkával"
 
 #: ../../source/annex1.rst:47
 msgid "8290"
-msgstr ""
+msgstr "8290"
 
 #: ../../source/annex1.rst:47
 msgid "Pushtow, nine or more barges"
-msgstr ""
+msgstr "Tolóhajó, kilenc teherszállító bárkával"
 
 #: ../../source/annex1.rst:48
 msgid "8310"
-msgstr ""
+msgstr "8310"
 
 #: ../../source/annex1.rst:48
 msgid "Pushtow, one tank/gas barge"
-msgstr ""
+msgstr "Tolóhajó, egy gázszállító bárkával / tartálybárkával"
 
 #: ../../source/annex1.rst:49
 msgid "8320"
-msgstr ""
+msgstr "8320"
 
 #: ../../source/annex1.rst:49
 msgid "Pushtow, two barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, két bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:50
 msgid "8330"
-msgstr ""
+msgstr "8330"
 
 #: ../../source/annex1.rst:50
 msgid "Pushtow, three barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, három bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:51
 msgid "8340"
-msgstr ""
+msgstr "8340"
 
 #: ../../source/annex1.rst:51
 msgid "Pushtow, four barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, négy bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:52
 msgid "8350"
-msgstr ""
+msgstr "8350"
 
 #: ../../source/annex1.rst:52
 msgid "Pushtow, five barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, öt bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:53
 msgid "8360"
-msgstr ""
+msgstr "8360"
 
 #: ../../source/annex1.rst:53
 msgid "Pushtow, six barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, hat bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:54
 msgid "8370"
-msgstr ""
+msgstr "8370"
 
 #: ../../source/annex1.rst:54
 msgid "Pushtow, seven barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, hét bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:55
 msgid "8380"
-msgstr ""
+msgstr "8380"
 
 #: ../../source/annex1.rst:55
 msgid "Pushtow, eight barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, nyolc bárkával, amelyből legalább egy tartálybárka vagy "
+"gázszállító bárka"
 
 #: ../../source/annex1.rst:56
 msgid "8390"
-msgstr ""
+msgstr "8390"
 
 #: ../../source/annex1.rst:56
 msgid "Pushtow, nine or more barges at least one tanker or gas barge"
 msgstr ""
+"Tolóhajó, kilenc vagy több bárkával, amelyből legalább egy tartálybárka "
+"vagy gázszállító bárka"
 
 #: ../../source/annex1.rst:57
 msgid "8400"
-msgstr ""
+msgstr "8400"
 
 #: ../../source/annex1.rst:57
 msgid "Tug, single"
-msgstr ""
+msgstr "Vontatóhajó (magányosan közlekedő)"
 
 #: ../../source/annex1.rst:57 ../../source/annex1.rst:63
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../source/annex1.rst:57
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/annex1.rst:58
 msgid "8410"
-msgstr ""
+msgstr "8410"
 
 #: ../../source/annex1.rst:58
 msgid "Tug, one or more tows"
-msgstr ""
+msgstr "Vontatóhajó, egy vagy több vontatmánnyal"
 
 #: ../../source/annex1.rst:59
 msgid "8420"
-msgstr ""
+msgstr "8420"
 
 #: ../../source/annex1.rst:59
 msgid "Tug, assisting a vessel or linked combination"
-msgstr ""
+msgstr "Előfogatot adó vontatóhajó"
 
 #: ../../source/annex1.rst:60
 msgid "8430"
-msgstr ""
+msgstr "8430"
 
 #: ../../source/annex1.rst:60
 msgid "Pushboat, single"
-msgstr ""
+msgstr "Tolóhajó (magányosan közlekedő)"
 
 #: ../../source/annex1.rst:61
 msgid "8440"
-msgstr ""
+msgstr "8440"
 
 #: ../../source/annex1.rst:61
 msgid "Passenger ship, ferry, cruise ship, red cross ship"
-msgstr ""
+msgstr "Utasszállító hajó, komp, kórházhajó, kabinos személyhajó"
 
 #: ../../source/annex1.rst:61 ../../source/annex1.rst:62
 #: ../../source/annex1.rst:64 ../../source/annex1.rst:65
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../source/annex1.rst:62
 msgid "8441"
-msgstr ""
+msgstr "8441"
 
 #: ../../source/annex1.rst:62
 msgid "Ferry"
-msgstr ""
+msgstr "Komp"
 
 #: ../../source/annex1.rst:63
 msgid "8442"
-msgstr ""
+msgstr "8442"
 
 #: ../../source/annex1.rst:63
 msgid "Red cross ship"
-msgstr ""
+msgstr "Kórházhajó"
 
 #: ../../source/annex1.rst:64
 msgid "8443"
-msgstr ""
+msgstr "8443"
 
 #: ../../source/annex1.rst:64
 msgid "Cruise ship"
-msgstr ""
+msgstr "Kabinos személyhajó"
 
 #: ../../source/annex1.rst:65
 msgid "8444"
-msgstr ""
+msgstr "8444"
 
 #: ../../source/annex1.rst:65
 msgid "Passenger ship without accomodation"
-msgstr ""
+msgstr "Termes személyhajó"
 
 #: ../../source/annex1.rst:66
 msgid "8450"
-msgstr ""
+msgstr "8450"
 
 #: ../../source/annex1.rst:66
 msgid "Service vessel, police patrol, port service"
-msgstr ""
+msgstr "Kiszolgáló hajó, hatósági hajó, kikötői szolgálatot ellátó hajó"
 
 #: ../../source/annex1.rst:67
 msgid "8460"
-msgstr ""
+msgstr "8460"
 
 #: ../../source/annex1.rst:67
 msgid ""
-"Vessel, work maintainance craft, floating derrick, cable-ship, buoy-ship,"
-" dredge"
-msgstr ""
+"Vessel, work maintainance craft, floating derrick, cable-ship, buoy-"
+"ship, dredge"
+msgstr "Hajó, úszó munkagép, úszódaru, kábelfektető, kotróhajó"
 
 #: ../../source/annex1.rst:69
 msgid "8470"
-msgstr ""
+msgstr "8470"
 
 #: ../../source/annex1.rst:69
 msgid "Object, towed, not otherwise specified"
-msgstr ""
+msgstr "Egyéb vontatott úszó létesítmények"
 
 #: ../../source/annex1.rst:70
 msgid "8480"
-msgstr ""
+msgstr "8480"
 
 #: ../../source/annex1.rst:70
 msgid "Fishing boat"
-msgstr ""
+msgstr "Halászhajó"
 
 #: ../../source/annex1.rst:71
 msgid "8490"
-msgstr ""
+msgstr "8490"
 
 #: ../../source/annex1.rst:71
 msgid "Bunkership"
-msgstr ""
+msgstr "Ellátóhajó"
 
 #: ../../source/annex1.rst:72
 msgid "8500"
-msgstr ""
+msgstr "8500"
 
 #: ../../source/annex1.rst:72
 msgid "Barge, tanker, chemical"
-msgstr ""
+msgstr "Vegyi anyagot szállító tartálybárka"
 
 #: ../../source/annex1.rst:73
 msgid "8510"
-msgstr ""
+msgstr "8510"
 
 #: ../../source/annex1.rst:73
 msgid "Object, not otherwise specified"
-msgstr ""
+msgstr "Egyéb, meg nem határozott úszó létesítmények"
 
 #: ../../source/annex1.rst:74
 msgid "1500"
-msgstr ""
+msgstr "1500"
 
 #: ../../source/annex1.rst:74
 msgid "General cargo Vessel maritime"
-msgstr ""
+msgstr "Tengeri áruszállító hajó"
 
 #: ../../source/annex1.rst:75
 msgid "1510"
-msgstr ""
+msgstr "1510"
 
 #: ../../source/annex1.rst:75
 msgid "Unit carrier maritime"
-msgstr ""
+msgstr "Konténerszállító tengeri hajó"
 
 #: ../../source/annex1.rst:76
 msgid "1520"
-msgstr ""
+msgstr "1520"
 
 #: ../../source/annex1.rst:76
 msgid "bulk carrier maritime"
-msgstr ""
+msgstr "ömlesztettáru-szállító tengeri hajó"
 
 #: ../../source/annex1.rst:77
 msgid "1530"
-msgstr ""
+msgstr "1530"
 
 #: ../../source/annex1.rst:77
 msgid "tanker"
-msgstr ""
+msgstr "tartályhajó"
 
 #: ../../source/annex1.rst:78
 msgid "1540"
-msgstr ""
+msgstr "1540"
 
 #: ../../source/annex1.rst:78
 msgid "liquified gas tanker"
-msgstr ""
+msgstr "cseppfolyósítottgáz-szállító tartályhajó"
 
 #: ../../source/annex1.rst:79
 msgid "1850"
-msgstr ""
+msgstr "1850"
 
 #: ../../source/annex1.rst:79
 msgid "pleasure craft, longer than 20 metres"
-msgstr ""
+msgstr "tengeri kedvtelési célú hajó (20 méternél hosszabb)"
 
 #: ../../source/annex1.rst:80
 msgid "1900"
-msgstr ""
+msgstr "1900"
 
 #: ../../source/annex1.rst:80
 msgid "fast ship"
-msgstr ""
+msgstr "gyorsjáratú hajó"
 
 #: ../../source/annex1.rst:80 ../../source/annex1.rst:81
 #: ../../source/annex1.rst:82
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/annex1.rst:81
 msgid "1910"
-msgstr ""
+msgstr "1910"
 
 #: ../../source/annex1.rst:81
 msgid "hydrofoil"
-msgstr ""
+msgstr "hordszárnyas hajó"
 
 #: ../../source/annex1.rst:82
 msgid "1920"
-msgstr ""
+msgstr "1920"
 
 #: ../../source/annex1.rst:82
 msgid "catamaran fast"
-msgstr ""
-
+msgstr "gyorsjáratú katamarán hajó"

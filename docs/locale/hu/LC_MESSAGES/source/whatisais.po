@@ -5,88 +5,129 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 18:07+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/whatisais.rst:3
 msgid "What is AIS?"
 msgstr ""
 
 #: ../../source/whatisais.rst:4
+#, fuzzy
 msgid ""
 "Inland AIS is based on the Maritime AIS. AIS uses radio technology. "
 "Through radio signals AIS stations, sometimes called AIS transponders, "
 "send out messages."
 msgstr ""
+"A belvízi AIS a tengerhajózásban alkalmazott AIS-on alapszik és "
+"rádiótechnikai átvitelt alkalmaz. Az AIS állomások (más néven "
+"AIStranszponderek) üzeneteket sugároznak ki, amelyeket minden olyan "
+"fedélzeti és parti AIS állomás vesz, amely a kibocsátó állomás rádiós "
+"hatótávolságán belül helyezkedik el."
 
 #: ../../source/whatisais.rst:6
+#, fuzzy
 msgid ""
 "These messages can be received by all other AIS stations, on ships and "
 "onshore, in the vicinity of the sending station within VHF radio range. "
 "This happens automatically and periodically, with shorter or longer "
 "intervals. A fast-moving ship will send out AIS messages at shorter "
-"intervals than a ship that is travelling slower or is moored. Two special"
-" VHF radio channels are reserved to exchange AIS messages."
+"intervals than a ship that is travelling slower or is moored. Two "
+"special VHF radio channels are reserved to exchange AIS messages."
 msgstr ""
+"A jelküldés automatikusan és rendszeresen, különféle időközökkel "
+"történik. A gyorsan haladó úszólétesítmények rövidebb, míg a lassan "
+"mozgó vagy kikötőben tartózkodó úszólétesítmények hosszabb időközönként "
+"sugároznak AIS-adásokat. Üzenetváltásra két külön, e célra fenntartott "
+"URH-csatorna szolgál."
 
 #: ../../source/whatisais.rst:8
+#, fuzzy
 msgid ""
 "Certain hardware and software is needed for AIS. The hardware is an AIS "
 "station with built-in GPS. For a user-friendly presentation of the "
 "content of AIS messages, additional equipment (e.g. Inland ECDIS, see "
 "chapter 3) is needed."
 msgstr ""
+"Az AIS üzemeltetéséhez elengedhetetlenek bizonyos berendezések és "
+"szoftvereszközök. A szükséges hardveres háttér egy beépített GPS-vevővel "
+"rendelkező AISállomás. Az AIS-üzenetek tartalmának felhasználóbarát "
+"megjelenítéséhez pedig további eszközre (ún. belvízi elektronikus térkép-"
+"megjelenítő és információs rendszerre — ECDIS, lásd 3. pont) van szükség."
 
 #: ../../source/whatisais.rst:10
 msgid ""
 "The information in these messages includes the identity of the ship, the "
-"position, and other ship-related information (see chapter 2 for details)."
-" Some of the information, such as ship identity and position, is "
-"automatically broadcast. Other information, such as navigation status, "
-"destination, and dangerous cargo category (blue cones), can be input "
-"manually by the skipper. All data that is input manually has to be "
+"position, and other ship-related information (see chapter 2 for "
+"details). Some of the information, such as ship identity and position, "
+"is automatically broadcast. Other information, such as navigation "
+"status, destination, and dangerous cargo category (blue cones), can be "
+"input manually by the skipper. All data that is input manually has to be "
 "accurate and valid."
 msgstr ""
+"Az üzenetek az úszólétesítmény azonosítóját, helyzetét, továbbá az "
+"úszólétesítményhez kapcsolódó egyéb információkat tartalmazzák "
+"(részletek a 2. pontban). Bizonyos adatokat - például az úszólétesítmény "
+"azonosítóját és helyzetét - a rendszer automatikusan küldi ki. A "
+"hajóvezetőknek lehetőségük van az úszólétesítményre vonatkozó további "
+"információk kézi betáplálására, ilyen például a hajózási állapot, az úti "
+"cél vagy a veszélyes árura vonatkozó tájékoztatás (kék kúpok). Minden "
+"kézileg megadott adatnak pontosnak és érvényesnek kell lennie."
 
 #: ../../source/whatisais.rst:14
 msgid ""
-"The following points should be considered when using information conveyed"
-" by AIS :"
+"The following points should be considered when using information "
+"conveyed by AIS :"
 msgstr ""
+"Az AIS eszközzel továbbított információk használatánál vegyük figyelembe "
+"az alábbi pontokat:"
 
 #: ../../source/whatisais.rst:16
 msgid ""
-"Always bear in mind that other ships may not be equipped with AIS; an AIS"
-" station installed on another ship might transmit incomplete, erroneous "
-"or not updated information; AIS may fail; or AIS might be switched off."
+"Always bear in mind that other ships may not be equipped with AIS; an "
+"AIS station installed on another ship might transmit incomplete, "
+"erroneous or not updated information; AIS may fail; or AIS might be "
+"switched off."
 msgstr ""
+"Tartsuk szem előtt, hogy más úszólétesítmények nem biztos, hogy "
+"rendelkeznek AIS eszközzel; egy másik úszólétesítményen felszerelt AIS-"
+"állomás esetleg hiányos, hibás vagy elavult információkat továbbít; az "
+"AIS meghibásodhat vagy lehet, hogy ki van kapcsolva."
 
 #: ../../source/whatisais.rst:17
 msgid ""
 "Not all shore infrastructures are equipped with AIS base stations, e.g. "
 "locks and Vessel Traffic Service (VTS) centres."
 msgstr ""
+"Nem mindegyik parti létesítmény (például zsilipek vagy VTSközpontok) "
+"rendelkezik AIS bázisállomással."
 
 #: ../../source/whatisais.rst:18
 msgid ""
 "Users should ensure that they are able to correctly interpret the data "
 "received."
 msgstr ""
+"A felhasználóknak meg kell bizonyosodniuk arról, hogy képesek helyesen "
+"értelmezni a fogadott adatokat."
 
 #: ../../source/whatisais.rst:19
 msgid ""
 "AIS is purely an additional source of information. It does not replace "
 "navigational aids such as radar, but is intended to support them."
 msgstr ""
-
+"Az AIS csak kiegészítő információforrás. Nem helyettesíti az olyan "
+"navigációs eszközöket, mint például a radar, de arra hivatott, hogy "
+"azokat kiegészítse."

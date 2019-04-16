@@ -5,47 +5,65 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 15:52+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/aisonaton.rst:3
 msgid "AIS on Aids to Navigation (AtoN)"
-msgstr ""
+msgstr "AIS en AtoN"
 
 #: ../../source/aisonaton.rst:5
 msgid ""
 "AIS provides a suitable means for emphasising classic Aids to Navigation "
 "(AtoN) for the marking of buoys, wrecks, wind farms, etc. A special AIS "
 "AtoN message transfers the position and the meaning of the Aids to "
-"Navigation as well as information if the buoy is on the required position"
-" or if it has been swept away."
+"Navigation as well as information if the buoy is on the required "
+"position or if it has been swept away."
 msgstr ""
+"AIS is een geschikt middel om de klassieke navigatiehulpmiddelen (Aids "
+"to Navigation of AtoN) weer te geven, die bijvoorbeeld boeien, wrakken "
+"of windmolenparken markeren. Een speciale AIS-AtoN-boodschap geeft de "
+"positie en de aard van het navigatiehulpmiddel weer, en vermeldt of de "
+"boei op de juiste plaats ligt of weggeslagen is."
 
 #: ../../source/aisonaton.rst:7
+#, fuzzy
 msgid ""
 "This AIS AtoN message can be either transmitted by an AIS shore station "
 "or by a specific AIS AtoN station mounted on a buoy, wind farm or "
 "lighthouse."
 msgstr ""
+"Een dergelijke AtoNboodschap kan worden verzonden door een AIS-station "
+"aan wal of door een specifiek AIS AtoN-station dat op een boei, "
+"windmolenpark of vuurtoren is geplaatst."
 
 #: ../../source/aisonaton.rst:9
+#, fuzzy
 msgid ""
 "The AIS AtoN message can represent a real buoy lying in the water or a "
-"position where no real buoy is present. In the latter case this is called"
-" a virtual AtoN. Virtual AtoN’s may be displayed on an ECDIS chart and "
-"might be used to mark a wreck immediately after the accident before real "
-"buoys can be brought out, or to mark a fairway in ice conditions where "
-"buoys won’t last."
+"position where no real buoy is present. In the latter case this is "
+"called a virtual AtoN. Virtual AtoN’s may be displayed on an ECDIS chart "
+"and might be used to mark a wreck immediately after the accident before "
+"real buoys can be brought out, or to mark a fairway in ice conditions "
+"where buoys won’t last."
 msgstr ""
-
+"De AIS-AtoN-boodschap kan een echte boei in het water weergeven, of een "
+"positie waar geen fysieke boei ligt: een zogenaamde virtuele AtoN. "
+"Dergelijke virtuele AtoNs worden weergegeven op een ECDIS-kaart en "
+"kunnen bijvoorbeeld worden gebruikt om een wrak aan te duiden "
+"onmiddellijk na het ongeval, voordat er echte boeien kunnen worden "
+"uitgezet, of om de vaarweg af te bakenen bij vriesweer, als echte boeien "
+"niet kunnen worden gebruikt."

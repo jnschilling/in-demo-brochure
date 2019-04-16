@@ -5,150 +5,172 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-16 10:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:45+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/inlandaischecklist.rst:3
 msgid "Inland AIS Checklist"
-msgstr ""
+msgstr "Belvízi AIS ellenőrzési lista"
 
 #: ../../source/inlandaischecklist.rst:5
 msgid "Operation of the Inland AIS station on board an inland ship"
-msgstr ""
+msgstr "A belvízi AIS-állomás működtetése belvízi hajók fedélzetén"
 
 #: ../../source/inlandaischecklist.rst:7
 msgid ""
-"This checklist should help the skipper operate the Inland AIS station on "
-"board the vessel. The purpose is to give a short overview of what kind of"
-" data should be input and kept up to date during the voyage of the inland"
-" ship. The actual requirement of the data input may differ between "
-"regions. The minimum requirements of the data content are published in "
-"the appropriate regional regulation of the river commission or the "
-"national legislation."
+"This checklist should help the skipper operate the Inland AIS station on board "
+"the vessel. The purpose is to give a short overview of what kind of data should "
+"be input and kept up to date during the voyage of the inland ship. The actual "
+"requirement of the data input may differ between regions. The minimum "
+"requirements of the data content are published in the appropriate regional "
+"regulation of the river commission or the national legislation."
 msgstr ""
+"Jelen ellenőrzési lista arra hivatott, hogy segítséget nyújtson az "
+"úszólétesítmények vezetőinek a belvízi AIS-állomás fedélzeti üzemeltetéséhez. A "
+"lista célja összefoglalni a belvízi hajón betáplálandó és a hajó útja során "
+"naprakészen tartandó adatokat. Az adatbevitelre vonatkozó tényleges "
+"követelmények régiónként eltérhetnek. Az adattartalomra vonatkozó "
+"alapkövetelményeket az egyes folyami bizottságok szabályozásai vagy a nemzeti "
+"rendelkezések szabják meg."
 
 #: ../../source/inlandaischecklist.rst:11
 msgid "BEFORE THE VOYAGE"
-msgstr ""
+msgstr "INDULÁS ELŐTT"
 
 #: ../../source/inlandaischecklist.rst:13
 msgid ""
-"Before the voyage starts, check that the Inland AIS station is switched "
-"on."
+"Before the voyage starts, check that the Inland AIS station is switched on."
 msgstr ""
+"Indulás előtt ellenőrizzük, hogy a belvízi AIS állomás be van-e kapcsolva."
 
 #: ../../source/inlandaischecklist.rst:15
 msgid "Check your own ship data transmitted by the Inland AIS (once in a while) :"
 msgstr ""
+"Ellenőrizzük (időnként), hogy a hajón lévő belvízi AIS-adatszolgáltatás működik-"
+"e:"
 
 #: ../../source/inlandaischecklist.rst:17
 msgid "Name of the ship."
-msgstr ""
+msgstr "A úszólétesítmény neve."
 
 #: ../../source/inlandaischecklist.rst:18
 msgid "ENI number."
-msgstr ""
+msgstr "ENI szám."
 
 #: ../../source/inlandaischecklist.rst:19
 msgid "ERI ship and convoy type."
-msgstr ""
+msgstr "ERI hajó- és köteléktípus."
 
 #: ../../source/inlandaischecklist.rst:20
 msgid "Length and beam of ship."
-msgstr ""
+msgstr "A hajó hossza és szélessége."
 
 #: ../../source/inlandaischecklist.rst:21
 msgid "Reference point of the GPS antenna."
-msgstr ""
+msgstr "A GPS-antenna vonatkoztatási pontja."
 
 #: ../../source/inlandaischecklist.rst:22
 msgid "If blue sign is connected, check that blue sign status is correct."
 msgstr ""
+"Amennyiben a kék jelzés csatlakoztatva van, ellenőrizzük, hogy a kék jelzés "
+"állapota megfelelő-e."
 
 #: ../../source/inlandaischecklist.rst:23
 msgid ""
-"Check if you are receiving data from other vessels (which you may see "
-"visually) on the MKD or Inland ECDIS."
+"Check if you are receiving data from other vessels (which you may see visually) "
+"on the MKD or Inland ECDIS."
 msgstr ""
+"Ellenőrizzük az MKD-n vagy az ECDIS-en, hogy más úszólétesítményektől "
+"(amelyeket szabad szemmel is láthatunk) fogad-e a rendszer adatokat."
 
 #: ../../source/inlandaischecklist.rst:27
 msgid "SHORTLY BEFORE STATING THE VOYAGE"
-msgstr ""
+msgstr "RÖVIDDEL A HAJÓ ÚTJÁNAK MEGKEZDÉSÉT KÖVETŐEN"
 
 #: ../../source/inlandaischecklist.rst:29
 msgid ""
-"Amend your own ship’s data for the planned voyage according to the "
-"regional regulation for the river where you are navigating :"
+"Amend your own ship’s data for the planned voyage according to the regional "
+"regulation for the river where you are navigating :"
 msgstr ""
+"Módosítsuk a hajó adatait a tervezett út során érintett folyók regionális "
+"előírásai alapján:"
 
 #: ../../source/inlandaischecklist.rst:31
 msgid "Dangerous cargo indication (number of blue cones),"
-msgstr ""
+msgstr "Veszélyes árura vonatkozó tájékoztatás (kék kúpok száma),"
 
 #: ../../source/inlandaischecklist.rst:32
 msgid "Destination,"
-msgstr ""
+msgstr "A úti cél,"
 
 #: ../../source/inlandaischecklist.rst:33
 msgid "Depth,"
-msgstr ""
+msgstr "Merülés,"
 
 #: ../../source/inlandaischecklist.rst:34
 msgid ""
-"In case of convoy length and beam of convoy and the reference point of "
-"the GPS antenna. Also if the previous voyage was a convoy it should be "
-"adjusted accordingly,"
+"In case of convoy length and beam of convoy and the reference point of the GPS "
+"antenna. Also if the previous voyage was a convoy it should be adjusted "
+"accordingly,"
 msgstr ""
+"Kötelék esetében: a kötelék hossza és szélessége, valamint a GPS-antenna "
+"vonatkoztatási pontja. Az értékeket még akkor is ellenőrizzük, ha az előző út "
+"is kötelékben történt,"
 
 #: ../../source/inlandaischecklist.rst:35
 msgid ""
-"Set the navigational status information of the ship to “underway” with "
-"respect to the navigational status that is applicable."
+"Set the navigational status information of the ship to “underway” with respect "
+"to the navigational status that is applicable."
 msgstr ""
+"A hajózási állapotok közül válasszuk ki a „Halad” („underway”) navigációs "
+"állapotinformációt."
 
 #: ../../source/inlandaischecklist.rst:39
 msgid "DURING THE VOYAGE"
-msgstr ""
+msgstr "A HAJÓ ÚTJA ALATT"
 
 #: ../../source/inlandaischecklist.rst:41
 msgid "Keep the navigational status information of the ship up to date,"
-msgstr ""
+msgstr "Tartsuk naprakészen a hajózási állapotra vonatkozó információt,"
 
 #: ../../source/inlandaischecklist.rst:42
 msgid ""
-"Check if you are receiving data from other vessels (which you may see "
-"visually)."
+"Check if you are receiving data from other vessels (which you may see visually)."
 msgstr ""
+"Ellenőrizzük, hogy más úszólétesítményektől (amelyeket szabad szemmel is "
+"láthatunk) fogad-e a rendszer adatokat."
 
 #: ../../source/inlandaischecklist.rst:46
 msgid "AFTER THE VOYAGE"
-msgstr ""
+msgstr "A HAJÓ ÚTJA UTÁN"
 
 #: ../../source/inlandaischecklist.rst:48
 msgid "Set the navigational status information to “moored” or “at anchor”,"
 msgstr ""
+"Állítsuk a navigációs állapotinformációt „Kikötve vesztegel” („moored”) vagy "
+"„Horgonyoz” („at anchor”) állapotra,"
 
 #: ../../source/inlandaischecklist.rst:49
 msgid "Amend the voyage-related data if necessary,"
-msgstr ""
+msgstr "Amennyiben szükséges, módosítsuk a hajó útjához kapcsolódó adatokat,"
 
 #: ../../source/inlandaischecklist.rst:50
 msgid ""
-"Operate the Inland AIS station according to the regional regulation for "
-"the river/port where you are."
+"Operate the Inland AIS station according to the regional regulation for the "
+"river/port where you are."
 msgstr ""
-
-#~ msgid "Dangerous cargo indication,"
-#~ msgstr ""
-
+"A belvízi AIS-állomást az adott víziúton / kikötőhelyen érvényes előírások "
+"szerint üzemeltessük."

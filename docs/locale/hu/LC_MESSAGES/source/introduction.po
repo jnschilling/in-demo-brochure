@@ -5,23 +5,25 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:52+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/introduction.rst:3
 msgid "General introduction"
-msgstr ""
+msgstr "Bevezetés"
 
 #: ../../source/introduction.rst:10
 msgid ""
@@ -30,6 +32,10 @@ msgid ""
 "and in particular to inform skippers about their operation, limitations "
 "and potential uses."
 msgstr ""
+"A jelen útmutató a hajókra telepített (belvízi) AIS biztonságos és "
+"hatékony használatát hivatott elősegíteni, a rendszer működésével, "
+"korlátaival és potenciális alkalmazhatóságával kapcsolatos tájékoztatást "
+"adva a hajóvezetők számára."
 
 #: ../../source/introduction.rst:12
 msgid ""
@@ -38,4 +44,7 @@ msgid ""
 "operational use of Inland AIS on inland waterways, including the correct "
 "interpretation of the displayed data."
 msgstr ""
-
+"Az AIS üzemeltetése során ajánlott figyelembe venni az ebben az "
+"útmutatóban foglaltakat, amelyek megismertetik a hajózó személyzettel az "
+"AIS belvízi utakon való szakszerű használatát, beleértve a rendszer "
+"által megjelenített adatok helyes értelmezését is."

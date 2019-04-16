@@ -5,32 +5,38 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-16 10:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 16:43+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/useofinlandecdis.rst:3
 msgid "Use of inland ECDIS"
-msgstr ""
+msgstr "Gebruik van Inland ECDIS"
 
 #: ../../source/useofinlandecdis.rst:5
 msgid ""
-"Inland AIS is only useful on board a ship when information of other ships"
-" is visible on an Inland ECDIS chart. Therefore it is strongly "
+"Inland AIS is only useful on board a ship when information of other "
+"ships is visible on an Inland ECDIS chart. Therefore it is strongly "
 "recommended to combine Inland AIS with Inland ECDIS. This allows AIS "
 "information of other ships and from shore to be displayed on the Inland "
 "Electronic Navigational Chart (IENC)."
 msgstr ""
+"Aan boord van een schip is Inland AIS alleen nuttig als de informatie "
+"van andere schepen zichtbaar is op een Inland ECDIS-kaart. Het is dus "
+"sterk aan te raden om Inland AIS te combineren met Inland ECDIS. Zo kan "
+"de AIS-informatie van andere schepen en van stations aan wal "
+"geprojecteerd worden op een Inland Electronic Navigational Chart (IENC)."
 
 #: ../../source/useofinlandecdis.rst:7
 msgid ""
@@ -38,15 +44,25 @@ msgid ""
 "minimum) is visible on the screen via the settings of the Inland ECDIS. "
 "By zooming-in or zooming-out, some information will appear or disappear."
 msgstr ""
+"Met de instellingen van de Inland ECDIS kan de gebruiker bepalen welke "
+"informatie zichtbaar is op het scherm (alle informatie, standaard, of "
+"minimum). Door in- en uit te zoomen, verschijnt of verdwijnt sommige "
+"informatie."
 
 #: ../../source/useofinlandecdis.rst:9
 msgid ""
 "With respect to AIS information, AIS positions of other ships are always "
 "displayed. The user can decide for additional AIS information (label) of "
 "all ships or only one ship by pointing to the ship with the mouse. In "
-"case too many AIS symbols are visible on the screen, the user may zoom-in"
-" to decrease the viewing area and reduce the AIS information."
+"case too many AIS symbols are visible on the screen, the user may zoom-"
+"in to decrease the viewing area and reduce the AIS information."
 msgstr ""
+"Wat AIS-informatie betreft, worden de AIS-posities van andere schepen "
+"altijd weergegeven. De gebruiker kan beslissen om bijkomende AIS-"
+"informatie (labels) te krijgen van alle schepen, of van één schip door "
+"er met de muis over te gaan. Als er te veel AIS-symbolen op het scherm "
+"staan, kan de gebruiker inzoomen om het zichtveld te verkleinen en de "
+"AIS-informatie te verminderen."
 
 #: ../../source/useofinlandecdis.rst:11
 msgid ""
@@ -54,4 +70,6 @@ msgid ""
 "AIS information such as navigational status, destination, number of "
 "persons on board, etc."
 msgstr ""
-
+"Sommige Inland ECDIS-systemen kunnen Inland AIS ondersteunen om "
+"reisgerelateerde AIS-informatie in te voeren, zoals navigatiestatus, "
+"bestemming, aantal personen aan boord, enzovoort."

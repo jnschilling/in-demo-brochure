@@ -52,12 +52,12 @@ Once completed, the generated po files will be placed in the below directories:
 make -e SPHINXOPTS="-D language='fr'" html
 ```
 OR For Windows cmd.exe, run:
-```cmd
+```bat
 set SPHINXOPTS=-D language=fr
 .\make.bat html
 ```
 Then the default language needs to be updated back to English
-```windows
+```bat
 set SPHINXOPTS=-D language=en
 .\make.bat html
 ```

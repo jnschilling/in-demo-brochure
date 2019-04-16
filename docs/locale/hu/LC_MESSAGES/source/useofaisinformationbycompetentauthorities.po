@@ -5,29 +5,33 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 17:59+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:3
 msgid "Use of AIS information by Competent Authorities"
-msgstr ""
+msgstr "AIS-információk illetékes hatóságok általi felhasználása"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:5
 msgid ""
-"At the moment of writing this document, Competent Authorities have or are"
-" still investing in shore-based AIS networks."
+"At the moment of writing this document, Competent Authorities have or "
+"are still investing in shore-based AIS networks."
 msgstr ""
+"A jelen tájékoztató szerkesztésekor a parti AIS infrastruktúra egyes "
+"területeken már rendelkezésre áll vagy kiépítése folyamatban van."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:7
 msgid ""
@@ -38,6 +42,13 @@ msgid ""
 "waterways, ships heading towards their locks and bridges, and ships "
 "leaving their network."
 msgstr ""
+"A hajózási hatóságok tapasztalatot gyűjtenek a belvízi közlekedésben "
+"meglehetősen új technológiának számító AIS használatával kapcsolatban. A "
+"belvízi AIS-állomások által küldött, a hatóságok által begyűjtött "
+"információk főként monitoring célokat szolgálnak. Ezek az információk "
+"átfogó képet nyújtanak a hatóságoknak a víziutakon kialakuló "
+"helyzetekről, a zsilipek és hidak felé tartó, továbbá a hálózat "
+"területét elhagyó úszólétesítményekről."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:9
 msgid ""
@@ -49,10 +60,19 @@ msgid ""
 "possible, allowing smooth traffic with minimal delays at locks and "
 "bridges."
 msgstr ""
+"Néhány hatóság az AIS hálózatokat a közeljövőben arra fogja használni, "
+"hogy a fontos információkról (például vízállás) és a veszélyhelyzetekről "
+"a hajóvezetőket közvetlenül és hatékonyan tájékoztassa. Ezek az "
+"információk a hajókon telepített belvízi ECDIS-en megjeleníthetőek "
+"lesznek. Ezen kívül a rendszer elősegíti a zsilipek és hidak "
+"meghajózásának hatékonyabb tervezését, ami hozzájárulhat a forgalom "
+"folytonosságának megteremtéséhez, továbbá csökkentheti a zsilipeknél és "
+"hidaknál kialakuló várakozási időt."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:11
 msgid ""
 "AIS creates many new possibilities for future services. A number of "
 "pilots for new services are ongoing."
 msgstr ""
-
+"Az AIS számtalan új lehetőséget biztosít a jövő szolgáltatásai számára, "
+"amelyek közül számosnak a kísérleti üzeme már folyamatban van."
