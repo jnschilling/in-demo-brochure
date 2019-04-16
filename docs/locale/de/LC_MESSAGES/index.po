@@ -5,51 +5,56 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 10:49+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../index.rst:7
 msgid "Welcome to Inland navigation DEMO Brochure's documentation!"
 msgstr ""
+"Willkommen bei der Dokumentation der DEMO-Broschüre der "
+"Binnenschifffahrt!"
 
 #: ../../index.rst:9
 msgid "Table of Contents"
-msgstr ""
+msgstr "Inhaltsverzeichnis"
 
 #: ../../index.rst:31
 msgid "Annexes"
-msgstr ""
+msgstr "Anhänge"
 
 #: ../../index.rst:39
 msgid "Indices and tables"
-msgstr ""
+msgstr "Indizes und Tabellen"
 
 #: ../../index.rst:41
 msgid ":ref:`genindex`"
-msgstr ""
+msgstr ":ref:`genindex`"
 
 #: ../../index.rst:42
 msgid ":ref:`modindex`"
-msgstr ""
+msgstr ":ref:`modindex`"
 
 #: ../../index.rst:43
 msgid ":ref:`search`"
-msgstr ""
+msgstr ":ref:`search`"
 
 #: ../../index.rst:46
 msgid ""
 "Responsible editor: VTT Expert Group | Authors: Annick Javor, Stefan "
 "Bober, Piet Creemers, Jeffrey van Gils, Wim van der Heijden"
 msgstr ""
-
+"Verantwortlicher Redakteur: VTT Expertengruppe | Authors: Annick "
+"Javor, Stefan Bober, Piet Creemers, Jeffrey van Gils, Wim van der "
+"Heijden"

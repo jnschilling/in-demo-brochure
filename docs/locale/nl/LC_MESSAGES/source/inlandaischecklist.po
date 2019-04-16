@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-15 11:56+0200\n"
+"POT-Creation-Date: 2019-04-16 10:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,7 +93,7 @@ msgid ""
 msgstr ""
 
 #: ../../source/inlandaischecklist.rst:31
-msgid "Dangerous cargo indication,"
+msgid "Dangerous cargo indication (number of blue cones),"
 msgstr ""
 
 #: ../../source/inlandaischecklist.rst:32
@@ -148,4 +148,7 @@ msgid ""
 "Operate the Inland AIS station according to the regional regulation for "
 "the river/port where you are."
 msgstr ""
+
+#~ msgid "Dangerous cargo indication,"
+#~ msgstr ""
 

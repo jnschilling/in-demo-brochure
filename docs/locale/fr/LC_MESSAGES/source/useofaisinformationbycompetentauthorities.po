@@ -5,29 +5,34 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 10:12+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:3
 msgid "Use of AIS information by Competent Authorities"
-msgstr ""
+msgstr "Utilisation des informations AIS par les autorités compétentes"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:5
 msgid ""
-"At the moment of writing this document, Competent Authorities have or are"
-" still investing in shore-based AIS networks."
+"At the moment of writing this document, Competent Authorities have or "
+"are still investing in shore-based AIS networks."
 msgstr ""
+"A la date d’impression de la présente brochure, les autorités "
+"compétentes ont déjà réalisé des investissements pour l’établissement de "
+"réseaux AIS à terre ou de tels investissements sont en cours."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:7
 msgid ""
@@ -38,6 +43,14 @@ msgid ""
 "waterways, ships heading towards their locks and bridges, and ships "
 "leaving their network."
 msgstr ""
+"Les autorités compétentes pour les voies navigables se familairisent "
+"progressivement avec l’utilisation de cette technique relativement "
+"récente dans le domaine fluvial. Les informations diffusées et "
+"collectées au moyen des appareils AIS Intérieur sont essentiellement "
+"utilisées pour le suivi du trafic. Ces indications donnent aux autorités "
+"un aperçu de la situation sur les voies navigables, des bâtiments qui se "
+"dirigent vers leurs écluses et ponts et des bâtiments qui quittent leur "
+"réseau de voies navigables."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:9
 msgid ""
@@ -49,10 +62,22 @@ msgid ""
 "possible, allowing smooth traffic with minimal delays at locks and "
 "bridges."
 msgstr ""
+"A l’avenir, les réseaux AIS à terre permettront à certaines autorités de "
+"communiquer aux conducteurs des informations importantes de manière "
+"directe et efficace (par exemple les hauteurs d’eau) ainsi que des "
+"informations relatives à des zones de danger (par exemple des "
+"avertissements concernant une avarie). Ces informations seront alors "
+"visibles à bord sur les systèmes électroniques ECDIS Intérieur de "
+"visualisation de cartes et d’information. L’AIS permettra aussi de gérer "
+"de manière plus efficace le trafic aux écluses et aux ponts mobiles, de "
+"sorte que l’attente du trafic aux écluses et ponts sera limitée autant "
+"que possible."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:11
 msgid ""
 "AIS creates many new possibilities for future services. A number of "
 "pilots for new services are ongoing."
 msgstr ""
-
+"L’AIS ouvre de nombreuses possibilités pour des utilisations futures "
+"(services). Certains projets pilotes concernant de nouveaux services "
+"sont déjà en cours."
