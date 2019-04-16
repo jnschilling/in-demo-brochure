@@ -11,9 +11,9 @@ Contact: website: http://www.ris.eu/expert_groups/vtt, e-mail vtt@ris.eu
 
 * :uk: [EN-Leaflet operational use of Inland AIS(pdf)](http://www.ris.eu/docs/File/348/leaflet_operational_use_of_inland_ais%20_ed2013_vtteg_2013%20en.pdf)
 * :fr: [FR-leaflet utilisation d'appareils AIS intérieur](http://www.ris.eu/docs/File/348/leaflet_utilisation_d_appareils_ais_interieur_edition_2013_fr.pdf)
-* :nl: [NL-leaflet praktijkgids inland ais](http://www.ris.eu/docs/File/348/leaflet_praktijkgids_inland_ais__edition_2013_nl.pdf)
+* [NL-leaflet praktijkgids inland ais](http://www.ris.eu/docs/File/348/leaflet_praktijkgids_inland_ais__edition_2013_nl.pdf)
 * :de: [DE-leitfaden zur Nutzung von inland AIS](http://www.ris.eu/docs/File/348/leitfaden_zur_nutzung_von_inland_ais_edition_2013_de.pdf)
-* :hu: [HU-A belvízi közlekedés AIS üzemeltetési felhasználása](http://www.ris.eu/docs/File/348/leaflet_operational_use_of_inland_ais__edition_hu.pdf)
+* [HU-A belvízi közlekedés AIS üzemeltetési felhasználása](http://www.ris.eu/docs/File/348/leaflet_operational_use_of_inland_ais__edition_hu.pdf)
 
 # Internationalization : how to update the translations
 
