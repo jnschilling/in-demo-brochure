@@ -5,29 +5,34 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 15:09+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:3
 msgid "Use of AIS information by Competent Authorities"
-msgstr ""
+msgstr "Verwendung von AIS-Informationen durch die zuständigen Behörden"
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:5
 msgid ""
-"At the moment of writing this document, Competent Authorities have or are"
-" still investing in shore-based AIS networks."
+"At the moment of writing this document, Competent Authorities have or "
+"are still investing in shore-based AIS networks."
 msgstr ""
+"Zum Zeitpunkt der Drucklegung dieser Broschüre haben zuständige Behörden "
+"Investitionen in landseitige AIS-Netze durchgeführt oder führen solche "
+"Investitionen gerade durch."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:7
 msgid ""
@@ -38,6 +43,13 @@ msgid ""
 "waterways, ships heading towards their locks and bridges, and ships "
 "leaving their network."
 msgstr ""
+"Wasserstraßenbehörden sammeln noch Erfahrungen mit dieser in der "
+"Binnenschiff fahrt relativ neuen Technik. Die durch Inland AIS-Geräte "
+"verbreiteten gesammelten Informationen werden hauptsächlich zur "
+"Verkehrserfassung genutzt. Diese Angaben liefern den Behörden einen "
+"Überblick über die Lage auf den Wasserstraßen, über die Fahrzeuge, die "
+"ihre Schleusen und Brücken ansteuern, und über diejenigen Fahrzeuge, die "
+"ihr Wasserstraßennetz verlassen."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:9
 msgid ""
@@ -49,10 +61,21 @@ msgid ""
 "possible, allowing smooth traffic with minimal delays at locks and "
 "bridges."
 msgstr ""
+"Zukünft ig werden landseitige AIS-Netze einigen Behörden dazu dienen, "
+"wichtige Informationen (zum Beispiel Wasserstände) und Meldungen über "
+"Gefahrenlagen (zum Beispiel Unfallmeldungen) direkt und wirksam an "
+"Schiffsführer zu übermitteln. Diese Meldungen werden dann auf den an "
+"Bord installierten elektronischen Kartendarstellungs und "
+"Informationssystemen (Inland ECDIS) zu sehen sein. Auch eine wirksamere "
+"Ablaufplanung für Schleusen und bewegliche Brücken wird auf diese Weise "
+"möglich werden, wodurch der Verkehr an Schleusen und Brücken nur noch so "
+"wenig wie möglich aufgehalten werden wird."
 
 #: ../../source/useofaisinformationbycompetentauthorities.rst:11
 msgid ""
 "AIS creates many new possibilities for future services. A number of "
 "pilots for new services are ongoing."
 msgstr ""
-
+"AIS schafft viele neue Möglichkeiten für zukünftige Nutzungen "
+"(Services). Eine Anzahl von Pilotprojekten für neue Services laufen "
+"bereits."

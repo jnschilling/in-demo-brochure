@@ -5,31 +5,33 @@
 # Demo Brochure package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Inland Navigation Demo Brochure 2013.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-15 11:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-04-16 11:48+0200\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: ../../source/glossary.rst:3
 msgid "GLOSSARY"
-msgstr ""
+msgstr "GLOSSAR"
 
 #: ../../source/glossary.rst:6
 msgid "AIS"
-msgstr ""
+msgstr "AIS"
 
 #: ../../source/glossary.rst:7
 msgid "Automatic Identification System"
-msgstr ""
+msgstr "Automatic Identification System"
 
 #: ../../source/glossary.rst:9
 msgid ""
@@ -39,4 +41,9 @@ msgid ""
 "shore operations. (Source: IMO Performance Standards for AI; CCNR Inland "
 "ECDIS Standard Edition 2.0 23/11/2006)"
 msgstr ""
-
+"Ein automatisches Kommunikations- und Identifikationssystem zur "
+"Verbesserung der Sicherheit der Schifffahrt durch Unterstützung des "
+"effizienten Betriebs von Schiffsverkehrsdiensten (VTS), "
+"Schiffsmeldungen, Schiff-zu-Schiff- und Schiff-zu-Land-Betrieben. "
+"(Quelle: IMO Leistungsstandards für KI; ZKR Inland ECDIS Standard "
+"Edition 2.0 23.11.2006)"

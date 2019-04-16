@@ -56,7 +56,11 @@ OR For Windows cmd.exe, run:
 set SPHINXOPTS=-D language=fr
 .\make.bat html
 ```
-
+Then the default language needs to be updated back to English
+```windows
+set SPHINXOPTS=-D language=en
+.\make.bat html
+```
 ## In case the e-brochure is updated, the translation needs to be updated accordingly
 Update your po files by new pot files
 If a document is updated, it is necessary to generate updated pot files and to apply differences to translated po files. In order to apply the updates from a pot file to the po file, use the sphinx-intl update command.
