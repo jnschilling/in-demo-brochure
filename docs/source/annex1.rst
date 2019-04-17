@@ -3,7 +3,7 @@ ANNEX 1: ERI ship or convoy types
 =========================================
 
 .. table:: This table should be used to input the actual vessel type or convoy type before the voyage starts (see the Inland AIS checklist). 
-   :widths: auto
+   :widths: 1 1 10 1 1
 
    ======  ======  ===================================================================================  ==============  ==============
    ERI CODE                                                                                             SOLAS AIS Code

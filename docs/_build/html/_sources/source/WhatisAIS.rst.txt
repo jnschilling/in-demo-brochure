@@ -9,6 +9,13 @@ Certain hardware and software is needed for AIS. The hardware is an AIS station 
 
 The information in these messages includes the identity of the ship, the position, and other ship-related information (see chapter 2 for details). Some of the information, such as ship identity and position, is automatically broadcast. Other information, such as navigation status, destination, and dangerous cargo category (blue cones), can be input manually by the skipper. All data that is input manually has to be accurate and valid.
 
+.. sidebar:: Schema
+
+   .. image:: img/whatisais_1.jpg
+      :width: 100%
+      :alt: image missing
+      :align: right
+
 .. warning::
 
    The following points should be considered when using information conveyed by AIS :
@@ -17,3 +24,4 @@ The information in these messages includes the identity of the ship, the positio
       - Not all shore infrastructures are equipped with AIS base stations, e.g. locks and Vessel Traffic Service (VTS) centres.
       - Users should ensure that they are able to correctly interpret the data received.
       - AIS is purely an additional source of information. It does not replace navigational aids such as radar, but is intended to support them.
+
