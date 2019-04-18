@@ -1,5 +1,5 @@
 =======================
-Inland AIS Checklist
+Inland AIS Checklists
 =======================
 
 Operation of the Inland AIS station on board an inland ship
